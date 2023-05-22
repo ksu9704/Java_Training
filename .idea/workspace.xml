@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Java_Training">
-      <change afterPath="$PROJECT_DIR$/src/Movie/MovieTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movie/Movie_.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="MovieTest">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayTest/ArrayBasicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayTest/ArrayMakeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayTest/ArrayTest_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayTest/Book_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +48,46 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="애플리케이션.ArrayMakeTest">
+    <configuration name="ArrayBasicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayTest.ArrayBasicTest" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayMakeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayTest.ArrayMakeTest" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayTest.ArrayTest_" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MovieTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Movie.MovieTest" />
       <module name="Java_Training" />
@@ -61,6 +103,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ArrayMakeTest" />
+        <item itemvalue="애플리케이션.ArrayTest_" />
+        <item itemvalue="애플리케이션.ArrayBasicTest" />
         <item itemvalue="애플리케이션.MovieTest" />
       </list>
     </recent_temporary>
@@ -73,7 +118,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684725846361</updated>
-      <workItem from="1684725847707" duration="1813000" />
+      <workItem from="1684725847707" duration="10673000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -82,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684725938085</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MovieTest">
+      <created>1684732767254</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684732767254</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +153,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java_Training" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java_Training" />
+    <MESSAGE value="MovieTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="MovieTest" />
   </component>
 </project>
