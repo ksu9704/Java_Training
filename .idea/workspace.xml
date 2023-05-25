@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="산술, 대입연산자">
-      <change afterPath="$PROJECT_DIR$/src/RelationalOper/RelationalOperTest.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="관계, 논리연산자">
+      <change afterPath="$PROJECT_DIR$/src/IfBasic/IfElseIfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfBasic/IfElseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfBasic/IfbasicTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +47,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.RelationalOperTest">
+  <component name="RunManager" selected="애플리케이션.IfElseIfTest">
     <configuration name="ArithmeticOperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArithmeticOper.ArithmeticOperTest" />
       <module name="Java_Training" />
@@ -72,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxMinValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrePostOper.MaxMinValue" />
+    <configuration name="IfElseIfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfBasic.IfElseIfTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PrePostOper.*" />
+          <option name="PATTERN" value="IfBasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrePostOperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrePostOper.PrePostOperTest" />
+    <configuration name="IfbasicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfBasic.IfbasicTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PrePostOper.*" />
+          <option name="PATTERN" value="IfBasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.IfElseIfTest" />
+        <item itemvalue="애플리케이션.IfbasicTest" />
         <item itemvalue="애플리케이션.RelationalOperTest" />
         <item itemvalue="애플리케이션.AssignOperTest" />
         <item itemvalue="애플리케이션.ArithmeticOperTest" />
-        <item itemvalue="애플리케이션.MaxMinValue" />
-        <item itemvalue="애플리케이션.PrePostOperTest" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
-      <workItem from="1684810055597" duration="15812000" />
+      <workItem from="1684810055597" duration="21744000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -181,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685013582714</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="관계, 논리연산자">
+      <created>1685015511030</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685015511030</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +214,7 @@
     <MESSAGE value="Scanner 학습" />
     <MESSAGE value="삼항 연산자" />
     <MESSAGE value="산술, 대입연산자" />
-    <option name="LAST_COMMIT_MESSAGE" value="산술, 대입연산자" />
+    <MESSAGE value="관계, 논리연산자" />
+    <option name="LAST_COMMIT_MESSAGE" value="관계, 논리연산자" />
   </component>
 </project>
