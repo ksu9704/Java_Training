@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Scanner 학습">
-      <change afterPath="$PROJECT_DIR$/src/Scanner/ScannerExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrePostOper/PrePostOperTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +45,26 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.ScannerExam">
-    <configuration name="ObjectArrayExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayTest.ObjectArrayExam" />
+  <component name="RunManager" selected="애플리케이션.MaxMinValue">
+    <configuration name="MaxMinValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrePostOper.MaxMinValue" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayTest.*" />
+          <option name="PATTERN" value="PrePostOper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrePostOperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrePostOper.PrePostOperTest" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PrePostOper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDimArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayTest.TwoDimArrayTest" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArrayTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.MaxMinValue" />
+        <item itemvalue="애플리케이션.PrePostOperTest" />
         <item itemvalue="애플리케이션.ScannerExam" />
         <item itemvalue="애플리케이션.ScannerTest" />
         <item itemvalue="애플리케이션.TwoDimArrayInit" />
-        <item itemvalue="애플리케이션.TwoDimArrayTest" />
-        <item itemvalue="애플리케이션.ObjectArrayExam" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
-      <workItem from="1684810055597" duration="8475000" />
+      <workItem from="1684810055597" duration="11564000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684922937264</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Scanner 학습">
+      <created>1684924411853</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684924411853</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
