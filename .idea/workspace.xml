@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment=" for">
-      <change afterPath="$PROJECT_DIR$/src/BreakContinue/BreakContinueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopLoop/LoopLoopTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/WhileLoopTest.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="java training">
+      <change afterPath="$PROJECT_DIR$/src/MethodMake/CallByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodMake/CallByReferenceExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodMake/MethodMakeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.BreakContinueTest">
+  <component name="RunManager" selected="애플리케이션.CallByReferenceExam">
     <configuration name="BreakContinueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakContinue.BreakContinueTest" />
       <module name="Java_Training" />
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoop.ForLoopTest" />
+    <configuration name="CallByReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodMake.CallByReference" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForLoop.*" />
+          <option name="PATTERN" value="MethodMake.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseIfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfBasic.IfElseIfTest" />
+    <configuration name="CallByReferenceExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodMake.CallByReferenceExam" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IfBasic.*" />
+          <option name="PATTERN" value="MethodMake.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCaseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchCase.SwitchCaseTest" />
+    <configuration name="MethodMakeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodMake.MethodMakeTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SwitchCase.*" />
+          <option name="PATTERN" value="MethodMake.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.CallByReferenceExam" />
+        <item itemvalue="애플리케이션.CallByReference" />
+        <item itemvalue="애플리케이션.MethodMakeTest" />
         <item itemvalue="애플리케이션.BreakContinueTest" />
         <item itemvalue="애플리케이션.LoopLoopTest" />
-        <item itemvalue="애플리케이션.ForLoopTest" />
-        <item itemvalue="애플리케이션.SwitchCaseTest" />
-        <item itemvalue="애플리케이션.IfElseIfTest" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
-      <workItem from="1684810055597" duration="32128000" />
+      <workItem from="1684810055597" duration="35509000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -218,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685246795460</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="java training">
+      <created>1685352066472</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685352066472</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +254,7 @@
     <MESSAGE value="논리적인 사고력 if - else if" />
     <MESSAGE value="switch- case" />
     <MESSAGE value=" for" />
-    <option name="LAST_COMMIT_MESSAGE" value=" for" />
+    <MESSAGE value="java training" />
+    <option name="LAST_COMMIT_MESSAGE" value="java training" />
   </component>
 </project>
