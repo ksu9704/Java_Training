@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="ApiOverloading">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="BookDTO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
-      <workItem from="1684810055597" duration="39842000" />
+      <workItem from="1684810055597" duration="40142000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -243,7 +241,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685445434103</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="part 정리">
+      <created>1685534909822</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1685534909822</updated>
+    </task>
+    <task id="LOCAL-00018" summary="BookDTO">
+      <created>1685535065542</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1685535065542</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +288,8 @@
     <MESSAGE value="Method" />
     <MESSAGE value="Overloading" />
     <MESSAGE value="ApiOverloading" />
-    <option name="LAST_COMMIT_MESSAGE" value="ApiOverloading" />
+    <MESSAGE value="part 정리" />
+    <MESSAGE value="BookDTO" />
+    <option name="LAST_COMMIT_MESSAGE" value="BookDTO" />
   </component>
 </project>
