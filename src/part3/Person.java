@@ -15,7 +15,7 @@ public class Person {
     }
 
     public void walk(){
-        System.out.println("걷다");
+        System.out.println("걷다.");
     }
 
 }
