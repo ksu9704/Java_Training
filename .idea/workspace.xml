@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Person class">
-      <change afterPath="$PROJECT_DIR$/src/part3/PersonTest.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="PersonTest">
+      <change afterPath="$PROJECT_DIR$/src/model/CarDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part3/CarTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.PersonTest">
+  <component name="RunManager" selected="애플리케이션.CarTest">
     <configuration name="ApiOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part2.Overloading.ApiOverloading" />
       <module name="Java_Training" />
@@ -60,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallByReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part2.Overloading.MethodMake.CallByReference" />
+    <configuration name="CallByReferenceExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part2.Overloading.MethodMake.CallByReferenceExam" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallByReferenceExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part2.Overloading.MethodMake.CallByReferenceExam" />
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3.CarTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part2.Overloading.MethodMake.*" />
+          <option name="PATTERN" value="part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.CarTest" />
         <item itemvalue="애플리케이션.PersonTest" />
         <item itemvalue="애플리케이션.ApiOverloading" />
         <item itemvalue="애플리케이션.OverloadingTest" />
         <item itemvalue="애플리케이션.CallByReferenceExam" />
-        <item itemvalue="애플리케이션.CallByReference" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
-      <workItem from="1684810055597" duration="44018000" />
+      <workItem from="1684810055597" duration="50938000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -287,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685537740754</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="PersonTest">
+      <created>1685543412911</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1685543412911</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,6 +333,7 @@
     <MESSAGE value="MovieDTO" />
     <MESSAGE value="Overloading 정리" />
     <MESSAGE value="Person class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Person class" />
+    <MESSAGE value="PersonTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="PersonTest" />
   </component>
 </project>
