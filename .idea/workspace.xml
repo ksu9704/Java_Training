@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="CarDTO, Test">
-      <change afterPath="$PROJECT_DIR$/src/model/CarDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part3/CarInsertTest.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="CarDAO">
+      <change afterPath="$PROJECT_DIR$/src/model/CarUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part3/CarUtilityTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.CarInsertTest">
+  <component name="RunManager" selected="애플리케이션.CarUtilityTest">
     <configuration name="ApiOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part2.Overloading.ApiOverloading" />
       <module name="Java_Training" />
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverloadingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part2.Overloading.OverloadingTest" />
+    <configuration name="CarUtilityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3.CarUtilityTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part2.Overloading.*" />
+          <option name="PATTERN" value="part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.CarUtilityTest" />
         <item itemvalue="애플리케이션.CarInsertTest" />
         <item itemvalue="애플리케이션.CarTest" />
         <item itemvalue="애플리케이션.PersonTest" />
         <item itemvalue="애플리케이션.ApiOverloading" />
-        <item itemvalue="애플리케이션.OverloadingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
-      <workItem from="1684810055597" duration="52293000" />
+      <workItem from="1684810055597" duration="53385000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -301,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685614624141</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="CarDAO">
+      <created>1685619831980</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1685619831980</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,6 +349,7 @@
     <MESSAGE value="Person class" />
     <MESSAGE value="PersonTest" />
     <MESSAGE value="CarDTO, Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="CarDTO, Test" />
+    <MESSAGE value="CarDAO" />
+    <option name="LAST_COMMIT_MESSAGE" value="CarDAO" />
   </component>
 </project>
