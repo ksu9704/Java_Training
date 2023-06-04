@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="클래스를 접근하는 이름 이해">
-      <change afterPath="$PROJECT_DIR$/src/model/PersonVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part3/PersonInfoHide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part3/SetterGetterTest.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="setter, getter">
+      <change afterPath="$PROJECT_DIR$/src/part3/ConstructorInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part3/ConstructorOverloading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/PersonVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/PersonVO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.SetterGetterTest">
+  <component name="RunManager" selected="애플리케이션.ConstructorOverloading">
     <configuration name="AccessModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part3.AccessModifier" />
       <module name="Java_Training" />
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarUtilityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.CarUtilityTest" />
+    <configuration name="ConstructorInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3.ConstructorInit" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonAccessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.PersonAccessTest" />
+    <configuration name="ConstructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3.ConstructorOverloading" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ConstructorOverloading" />
+        <item itemvalue="애플리케이션.ConstructorInit" />
         <item itemvalue="애플리케이션.SetterGetterTest" />
         <item itemvalue="애플리케이션.PersonInfoHide" />
         <item itemvalue="애플리케이션.AccessModifier" />
-        <item itemvalue="애플리케이션.PersonAccessTest" />
-        <item itemvalue="애플리케이션.CarUtilityTest" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
-      <workItem from="1684810055597" duration="59672000" />
+      <workItem from="1684810055597" duration="61618000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -330,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685801278879</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="setter, getter">
+      <created>1685873415614</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1685873415614</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,7 +355,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="데이터의 이동 배열의 이해" />
     <MESSAGE value="Scanner 학습" />
     <MESSAGE value="삼항 연산자" />
     <MESSAGE value="산술, 대입연산자" />
@@ -373,6 +379,7 @@
     <MESSAGE value="CarUtility" />
     <MESSAGE value="AccessModifier" />
     <MESSAGE value="클래스를 접근하는 이름 이해" />
-    <option name="LAST_COMMIT_MESSAGE" value="클래스를 접근하는 이름 이해" />
+    <MESSAGE value="setter, getter" />
+    <option name="LAST_COMMIT_MESSAGE" value="setter, getter" />
   </component>
 </project>
