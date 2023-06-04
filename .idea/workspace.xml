@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="setter, getter">
-      <change afterPath="$PROJECT_DIR$/src/part3/ConstructorInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part3/ConstructorOverloading.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="생성자를 이용한 객체&#10;초기화">
+      <change afterPath="$PROJECT_DIR$/src/model/MovieVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part3/BestVOModeling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part3/ToStringPrint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/PersonVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/PersonVO.java" afterDir="false" />
     </list>
@@ -47,9 +48,9 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.ConstructorOverloading">
-    <configuration name="AccessModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.AccessModifier" />
+  <component name="RunManager" selected="애플리케이션.BestVOModeling">
+    <configuration name="BestVOModeling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3.BestVOModeling" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -87,19 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonInfoHide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.PersonInfoHide" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SetterGetterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part3.SetterGetterTest" />
       <module name="Java_Training" />
@@ -113,13 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ToStringPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3.ToStringPrint" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BestVOModeling" />
+        <item itemvalue="애플리케이션.ToStringPrint" />
         <item itemvalue="애플리케이션.ConstructorOverloading" />
         <item itemvalue="애플리케이션.ConstructorInit" />
         <item itemvalue="애플리케이션.SetterGetterTest" />
-        <item itemvalue="애플리케이션.PersonInfoHide" />
-        <item itemvalue="애플리케이션.AccessModifier" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
-      <workItem from="1684810055597" duration="61618000" />
+      <workItem from="1684810055597" duration="63175000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -337,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685873415614</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="생성자를 이용한 객체&#10;초기화">
+      <created>1685876745446</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1685876745446</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,7 +363,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Scanner 학습" />
     <MESSAGE value="삼항 연산자" />
     <MESSAGE value="산술, 대입연산자" />
     <MESSAGE value="관계, 논리연산자" />
@@ -380,6 +387,7 @@
     <MESSAGE value="AccessModifier" />
     <MESSAGE value="클래스를 접근하는 이름 이해" />
     <MESSAGE value="setter, getter" />
-    <option name="LAST_COMMIT_MESSAGE" value="setter, getter" />
+    <MESSAGE value="생성자를 이용한 객체&#10;초기화" />
+    <option name="LAST_COMMIT_MESSAGE" value="생성자를 이용한 객체&#10;초기화" />
   </component>
 </project>
