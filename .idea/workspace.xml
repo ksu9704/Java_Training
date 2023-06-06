@@ -46,13 +46,13 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.StudentArrayTest">
-    <configuration name="BestVOModeling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.BestVOModeling" />
+  <component name="RunManager" selected="애플리케이션.AccessModifier">
+    <configuration name="AccessModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3.AccessModifier" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="model.*" />
+          <option name="PATTERN" value="part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.ConstructorOverloading" />
+    <configuration name="BestVOModeling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3.BestVOModeling" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="model.*" />
+          <option name="PATTERN" value="model.DTO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,7 +78,7 @@
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="model.*" />
+          <option name="PATTERN" value="model.DTO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,7 +91,7 @@
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="model.*" />
+          <option name="PATTERN" value="model.DTO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,7 +104,7 @@
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="model.*" />
+          <option name="PATTERN" value="model.DTO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.AccessModifier" />
         <item itemvalue="애플리케이션.StudentArrayTest" />
         <item itemvalue="애플리케이션.StudentTest" />
         <item itemvalue="애플리케이션.BestVOModeling" />
         <item itemvalue="애플리케이션.ToStringPrint" />
-        <item itemvalue="애플리케이션.ConstructorOverloading" />
       </list>
     </recent_temporary>
   </component>

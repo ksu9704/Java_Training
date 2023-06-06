@@ -1,6 +1,6 @@
 package part3;
 
-import model.StudentVO;
+import model.VO.StudentVO;
 
 public class StudentTest {
     public static void main(String[] args) {

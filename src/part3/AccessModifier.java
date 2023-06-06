@@ -1,6 +1,6 @@
 package part3;
 
-import model.MemberDOT;
+import model.DTO.MemberDOT;
 
 public class AccessModifier {
     public static void main(String[] args) {

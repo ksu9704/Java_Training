@@ -1,4 +1,6 @@
-package model;
+package model.DAO;
+
+import model.DTO.CarDTO;
 
 public class CarDAO {
     // C.R.U.D

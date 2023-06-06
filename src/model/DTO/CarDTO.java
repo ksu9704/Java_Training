@@ -1,4 +1,4 @@
-package model;
+package model.DTO;
 
 public class CarDTO {
     public int carSn;
