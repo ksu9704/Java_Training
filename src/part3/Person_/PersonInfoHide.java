@@ -1,6 +1,6 @@
 //package part3;
 //
-//import model.PersonVO;
+//import model.VO.PersonVO;
 //
 //public class PersonInfoHide {
 //    public static void main(String[] args) {

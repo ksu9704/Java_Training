@@ -1,4 +1,4 @@
-package part3;
+package part3.Car;
 
 import model.DTO.CarDTO;
 import model.CarUtility;

@@ -1,6 +1,6 @@
-package part3;
+package part3.TestStudy;
 
-import model.PersonVO;
+import model.VO.PersonVO;
 
 public class ConstructorInit {
     public static void main(String[] args) {

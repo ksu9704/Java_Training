@@ -1,4 +1,4 @@
-package part3;
+package part3.Car;
 
 import model.DAO.CarDAO;
 import model.DTO.CarDTO;

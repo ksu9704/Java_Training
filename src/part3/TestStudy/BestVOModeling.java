@@ -1,4 +1,4 @@
-package part3;
+package part3.TestStudy;
 
 import model.VO.MovieVO;
 

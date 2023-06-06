@@ -1,4 +1,4 @@
-package part3;
+package part3.Person_;
 
 public class PersonAccessTest {
     public static void main(String[] args) {

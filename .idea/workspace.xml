@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="StudentArrayTest">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part3/BookDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/BookDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part3/MovieDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/MovieDTO.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="패키지화">
+      <change beforePath="$PROJECT_DIR$/src/part3/CarInsertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Car/CarInsertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part3/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Car/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part3/CarUtilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Car/CarUtilityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Person_/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part3/PersonAccessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Person_/PersonAccessTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part3/PersonInfoHide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Person_/PersonInfoHide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part3/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Person_/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part3/StudentArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Student/StudentArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part3/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/Student/StudentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +54,11 @@
 }]]></component>
   <component name="RunManager" selected="애플리케이션.AccessModifier">
     <configuration name="AccessModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.AccessModifier" />
+      <option name="MAIN_CLASS_NAME" value="part3.TestStudy.AccessModifier" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3.*" />
+          <option name="PATTERN" value="part3.Student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,7 +67,7 @@
       </method>
     </configuration>
     <configuration name="BestVOModeling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.BestVOModeling" />
+      <option name="MAIN_CLASS_NAME" value="part3.TestStudy.BestVOModeling" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -74,7 +80,7 @@
       </method>
     </configuration>
     <configuration name="StudentArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.StudentArrayTest" />
+      <option name="MAIN_CLASS_NAME" value="part3.Student.StudentArrayTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -87,7 +93,7 @@
       </method>
     </configuration>
     <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.StudentTest" />
+      <option name="MAIN_CLASS_NAME" value="part3.Student.StudentTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -100,7 +106,7 @@
       </method>
     </configuration>
     <configuration name="ToStringPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.ToStringPrint" />
+      <option name="MAIN_CLASS_NAME" value="part3.TestStudy.ToStringPrint" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -131,7 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
-      <workItem from="1684810055597" duration="67657000" />
+      <workItem from="1684810055597" duration="67983000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -357,7 +363,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685961647354</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="DTO 이동">
+      <created>1686049916904</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1686049916904</updated>
+    </task>
+    <task id="LOCAL-00034" summary="패키지화">
+      <created>1686050039771</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1686050039771</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,8 +395,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="관계, 논리연산자" />
-    <MESSAGE value="논리적인 사고력 if" />
     <MESSAGE value="논리적인 사고력 if - else if" />
     <MESSAGE value="switch- case" />
     <MESSAGE value=" for" />
@@ -400,6 +418,8 @@
     <MESSAGE value="생성자를 이용한 객체&#10;초기화" />
     <MESSAGE value="잘 설계된 VO 클래스 설계" />
     <MESSAGE value="StudentArrayTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="StudentArrayTest" />
+    <MESSAGE value="DTO 이동" />
+    <MESSAGE value="패키지화" />
+    <option name="LAST_COMMIT_MESSAGE" value="패키지화" />
   </component>
 </project>
