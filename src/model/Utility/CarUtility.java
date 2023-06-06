@@ -1,4 +1,4 @@
-package model;
+package model.Utility;
 
 import model.DTO.CarDTO;
 

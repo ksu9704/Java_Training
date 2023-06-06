@@ -1,6 +1,6 @@
 package part3.Static;
 
-import model.MyUtility_;
+import model.Utility.MyUtility_;
 
 public class NoneStaticAccess {
     public static void main(String[] args) {

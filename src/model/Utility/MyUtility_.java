@@ -1,4 +1,4 @@
-package model;
+package model.Utility;
 
 public class MyUtility_ {
     public int hap(int a, int b){

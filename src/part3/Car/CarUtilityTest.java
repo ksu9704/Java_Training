@@ -1,7 +1,7 @@
 package part3.Car;
 
 import model.DTO.CarDTO;
-import model.CarUtility;
+import model.Utility.CarUtility;
 
 public class CarUtilityTest {
     public static void main(String[] args) {

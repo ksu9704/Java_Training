@@ -1,6 +1,6 @@
 package part3.Static;
 
-import model.AllStatic;
+import model.Utility.AllStatic;
 
 public class AllStaticTest {
     public static void main(String[] args) {

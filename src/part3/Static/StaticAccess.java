@@ -1,6 +1,6 @@
 package part3.Static;
 
-import model.MyUtility;
+import model.Utility.MyUtility;
 
 public class StaticAccess {
     public static void main(String[] args) {
