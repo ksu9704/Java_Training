@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="잘 설계된 VO 클래스 설계">
-      <change afterPath="$PROJECT_DIR$/src/model/StudentVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part3/StudentArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part3/StudentTest.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="StudentArrayTest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part3/BookDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/BookDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part3/MovieDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/MovieDTO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3.*" />
+          <option name="PATTERN" value="model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,7 +65,7 @@
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3.*" />
+          <option name="PATTERN" value="model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,7 +78,7 @@
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3.*" />
+          <option name="PATTERN" value="model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,7 +91,7 @@
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3.*" />
+          <option name="PATTERN" value="model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,7 +104,7 @@
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3.*" />
+          <option name="PATTERN" value="model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
-      <workItem from="1684810055597" duration="65768000" />
+      <workItem from="1684810055597" duration="67657000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -351,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685884812321</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="StudentArrayTest">
+      <created>1685961647354</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1685961647354</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +375,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="산술, 대입연산자" />
     <MESSAGE value="관계, 논리연산자" />
     <MESSAGE value="논리적인 사고력 if" />
     <MESSAGE value="논리적인 사고력 if - else if" />
@@ -394,6 +399,7 @@
     <MESSAGE value="setter, getter" />
     <MESSAGE value="생성자를 이용한 객체&#10;초기화" />
     <MESSAGE value="잘 설계된 VO 클래스 설계" />
-    <option name="LAST_COMMIT_MESSAGE" value="잘 설계된 VO 클래스 설계" />
+    <MESSAGE value="StudentArrayTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="StudentArrayTest" />
   </component>
 </project>

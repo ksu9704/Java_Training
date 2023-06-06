@@ -1,4 +1,4 @@
-package part3;
+package model;
 
 public class BookDTO {
     public String title;
