@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="패키지화">
-      <change afterPath="$PROJECT_DIR$/src/part3/TestStudy/ClassObjectInstance.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="ClassObjectInstance">
+      <change afterPath="$PROJECT_DIR$/src/part4/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/EmployeeInitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/RempVO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +53,7 @@
       <recent name="$PROJECT_DIR$/src/part3/Person_" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ClassObjectInstance">
+  <component name="RunManager" selected="애플리케이션.EmployeeTest">
     <configuration name="AllStaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part3.Static.AllStaticTest" />
       <module name="Java_Training" />
@@ -69,7 +72,33 @@
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3.TestStudy.*" />
+          <option name="PATTERN" value="part4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeInitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.EmployeeInitTest" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.EmployeeTest" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,39 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoneStaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.Static.NoneStaticTest" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part3.Static.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.Static.StaticAccess" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part3.Static.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.EmployeeTest" />
+        <item itemvalue="애플리케이션.EmployeeInitTest" />
         <item itemvalue="애플리케이션.ClassObjectInstance" />
         <item itemvalue="애플리케이션.AllStaticTest" />
         <item itemvalue="애플리케이션.NoneStaticAccess" />
-        <item itemvalue="애플리케이션.StaticAccess" />
-        <item itemvalue="애플리케이션.NoneStaticTest" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
-      <workItem from="1684810055597" duration="70787000" />
+      <workItem from="1684810055597" duration="75317000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -396,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686052688734</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="ClassObjectInstance">
+      <created>1686053097046</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1686053097046</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +424,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" for" />
     <MESSAGE value="java training" />
     <MESSAGE value="Method" />
     <MESSAGE value="Overloading" />
@@ -439,6 +448,7 @@
     <MESSAGE value="패키지" />
     <MESSAGE value="Static" />
     <MESSAGE value="패키지화" />
-    <option name="LAST_COMMIT_MESSAGE" value="패키지화" />
+    <MESSAGE value="ClassObjectInstance" />
+    <option name="LAST_COMMIT_MESSAGE" value="ClassObjectInstance" />
   </component>
 </project>
