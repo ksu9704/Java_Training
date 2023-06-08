@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Employee">
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="패키지">
+      <change afterPath="$PROJECT_DIR$/src/part4/DogCatTest/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/DogCatTest/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/DogCatTest/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/DogCatTest/DogCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/DogCatTest/DogCatUpcastingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/DogCatTest/OverrideTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part4/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part4/EmployeeEX/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part4/EmployeeInitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part4/EmployeeEX/EmployeeInitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part4/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part4/EmployeeEX/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part4/RempVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part4/EmployeeEX/RempVO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +56,13 @@
       <recent name="$PROJECT_DIR$/src/part3/Person_" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.EmployeeTest">
-    <configuration name="AllStaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.Static.AllStaticTest" />
+  <component name="RunManager" selected="애플리케이션.OverrideTest">
+    <configuration name="DogCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.DogCatTest.DogCat" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3.Static.*" />
+          <option name="PATTERN" value="part4.DogCatTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,25 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassObjectInstance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.TestStudy.ClassObjectInstance" />
+    <configuration name="DogCatUpcastingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.DogCatTest.DogCatUpcastingTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.EmployeeEX.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmployeeInitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.EmployeeEX.EmployeeInitTest" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part4.EmployeeEX.*" />
+          <option name="PATTERN" value="part4.DogCatTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OverrideTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.DogCatTest.OverrideTest" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part4.DogCatTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.OverrideTest" />
+        <item itemvalue="애플리케이션.DogCatUpcastingTest" />
+        <item itemvalue="애플리케이션.DogCat" />
         <item itemvalue="애플리케이션.NoneStaticAccess" />
         <item itemvalue="애플리케이션.EmployeeTest" />
-        <item itemvalue="애플리케이션.EmployeeInitTest" />
-        <item itemvalue="애플리케이션.ClassObjectInstance" />
-        <item itemvalue="애플리케이션.AllStaticTest" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +142,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="1411000" />
+      <workItem from="1686146815081" duration="3163000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -415,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686119648698</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="패키지">
+      <created>1686227481314</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1686227481314</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,11 +462,11 @@
     <MESSAGE value="잘 설계된 VO 클래스 설계" />
     <MESSAGE value="StudentArrayTest" />
     <MESSAGE value="DTO 이동" />
-    <MESSAGE value="패키지" />
     <MESSAGE value="Static" />
     <MESSAGE value="패키지화" />
     <MESSAGE value="ClassObjectInstance" />
     <MESSAGE value="Employee" />
-    <option name="LAST_COMMIT_MESSAGE" value="Employee" />
+    <MESSAGE value="패키지" />
+    <option name="LAST_COMMIT_MESSAGE" value="패키지" />
   </component>
 </project>
