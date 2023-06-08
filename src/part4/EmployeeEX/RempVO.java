@@ -1,4 +1,4 @@
-package part4;
+package part4.EmployeeEX;
 
 
 // 일반 사원

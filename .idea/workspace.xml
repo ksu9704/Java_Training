@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="ClassObjectInstance">
-      <change afterPath="$PROJECT_DIR$/src/part4/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part4/EmployeeInitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part4/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part4/RempVO.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Employee">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part4/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part4/EmployeeEX/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part4/EmployeeInitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part4/EmployeeEX/EmployeeInitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part4/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part4/EmployeeEX/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part4/RempVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part4/EmployeeEX/RempVO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,8 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -72,7 +73,7 @@
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.*" />
+          <option name="PATTERN" value="part4.EmployeeEX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,11 +82,11 @@
       </method>
     </configuration>
     <configuration name="EmployeeInitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.EmployeeInitTest" />
+      <option name="MAIN_CLASS_NAME" value="part4.EmployeeEX.EmployeeInitTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.*" />
+          <option name="PATTERN" value="part4.EmployeeEX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.EmployeeTest" />
+      <option name="MAIN_CLASS_NAME" value="part4.EmployeeEX.EmployeeTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.*" />
+          <option name="PATTERN" value="part4.EmployeeEX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.NoneStaticAccess" />
         <item itemvalue="애플리케이션.EmployeeTest" />
         <item itemvalue="애플리케이션.EmployeeInitTest" />
         <item itemvalue="애플리케이션.ClassObjectInstance" />
         <item itemvalue="애플리케이션.AllStaticTest" />
-        <item itemvalue="애플리케이션.NoneStaticAccess" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +139,8 @@
       <option name="presentableId" value="Default" />
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
-      <workItem from="1684810055597" duration="75317000" />
+      <workItem from="1684810055597" duration="76782000" />
+      <workItem from="1686146815081" duration="1411000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -406,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686053097046</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Employee">
+      <created>1686119648698</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1686119648698</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,7 +433,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="java training" />
     <MESSAGE value="Method" />
     <MESSAGE value="Overloading" />
     <MESSAGE value="ApiOverloading" />
@@ -449,6 +457,7 @@
     <MESSAGE value="Static" />
     <MESSAGE value="패키지화" />
     <MESSAGE value="ClassObjectInstance" />
-    <option name="LAST_COMMIT_MESSAGE" value="ClassObjectInstance" />
+    <MESSAGE value="Employee" />
+    <option name="LAST_COMMIT_MESSAGE" value="Employee" />
   </component>
 </project>
