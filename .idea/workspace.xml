@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="OverrideTest">
-      <change afterPath="$PROJECT_DIR$/src/part4/ObjectCastingTest/ObjectCasting.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="다운케스팅">
+      <change afterPath="$PROJECT_DIR$/src/part4/Poly/PolyMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/Poly/PolyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,39 +52,13 @@
       <recent name="$PROJECT_DIR$/src/part3/Person_" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ObjectCasting">
-    <configuration name="DogCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.DogCatTest.DogCat" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part4.DogCatTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.PolyMethodTest">
     <configuration name="DogCatUpcastingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part4.DogCatTest.DogCatUpcastingTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="part4.DogCatTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NoneStaticAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.Static.NoneStaticAccess" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part3.Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,13 +92,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PolyMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.Poly.PolyMethodTest" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part4.Poly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.Poly.PolyTest" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part4.Poly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.PolyMethodTest" />
+        <item itemvalue="애플리케이션.PolyTest" />
         <item itemvalue="애플리케이션.ObjectCasting" />
         <item itemvalue="애플리케이션.OverrideTest" />
         <item itemvalue="애플리케이션.DogCatUpcastingTest" />
-        <item itemvalue="애플리케이션.DogCat" />
-        <item itemvalue="애플리케이션.NoneStaticAccess" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +138,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="3469000" />
+      <workItem from="1686146815081" duration="6791000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -425,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686229261080</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="다운케스팅">
+      <created>1686229660810</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1686229660810</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,7 +452,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Overloading" />
     <MESSAGE value="ApiOverloading" />
     <MESSAGE value="part 정리" />
     <MESSAGE value="BookDTO" />
@@ -468,6 +476,7 @@
     <MESSAGE value="Employee" />
     <MESSAGE value="패키지" />
     <MESSAGE value="OverrideTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="OverrideTest" />
+    <MESSAGE value="다운케스팅" />
+    <option name="LAST_COMMIT_MESSAGE" value="다운케스팅" />
   </component>
 </project>
