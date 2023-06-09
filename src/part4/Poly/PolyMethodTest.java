@@ -12,7 +12,7 @@ public class PolyMethodTest {
         display(c);
     }
 
-    private static void display(Animal ani) { // 다형성인수
+    private static void display(Animal ani) { // 1. 다형성인수
         ani.eat();
 
         if (ani instanceof Cat){
