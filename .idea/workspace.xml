@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="PolyMethodTest">
-      <change afterPath="$PROJECT_DIR$/src/part4/Poly/PolyArrayTest.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="PolyArray 다형성">
+      <change afterPath="$PROJECT_DIR$/src/part4/IsNotOverrideTest/AbstractClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/IsNotOverrideTest/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/IsNotOverrideTest/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/IsNotOverrideTest/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/IsNotOverrideTest/IsNotOverride.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/gongsang-ug/Desktop/git/Java_Training",
+    "last_opened_file_path": "/Users/gongsang-ug/Desktop/git/Java_Training/src/part4/IsNotOverrideTest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,17 +51,21 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/part4/IsNotOverrideTest" />
+      <recent name="$PROJECT_DIR$/src/part4/Poly_" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/part3/Person_" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.PolyArrayTest">
-    <configuration name="ObjectCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.ObjectCastingTest.ObjectCasting" />
+  <component name="RunManager" selected="애플리케이션.AbstractClassTest">
+    <configuration name="AbstractClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.IsNotOverrideTest.AbstractClassTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.ObjectCastingTest.*" />
+          <option name="PATTERN" value="part4.IsNotOverrideTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverrideTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.DogCatTest.OverrideTest" />
+    <configuration name="IsNotOverride" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.IsNotOverrideTest.IsNotOverride" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.DogCatTest.*" />
+          <option name="PATTERN" value="part4.IsNotOverrideTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.AbstractClassTest" />
+        <item itemvalue="애플리케이션.IsNotOverride" />
         <item itemvalue="애플리케이션.PolyArrayTest" />
         <item itemvalue="애플리케이션.PolyTest" />
         <item itemvalue="애플리케이션.PolyMethodTest" />
-        <item itemvalue="애플리케이션.ObjectCasting" />
-        <item itemvalue="애플리케이션.OverrideTest" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +145,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="8478000" />
+      <workItem from="1686146815081" duration="17134000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -440,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686316964987</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="PolyArray 다형성">
+      <created>1686321278173</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1686321278173</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,7 +473,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="part 정리" />
     <MESSAGE value="BookDTO" />
     <MESSAGE value="MemberDTO" />
     <MESSAGE value="MovieDTO" />
@@ -483,6 +497,7 @@
     <MESSAGE value="OverrideTest" />
     <MESSAGE value="다운케스팅" />
     <MESSAGE value="PolyMethodTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="PolyMethodTest" />
+    <MESSAGE value="PolyArray 다형성" />
+    <option name="LAST_COMMIT_MESSAGE" value="PolyArray 다형성" />
   </component>
 </project>
