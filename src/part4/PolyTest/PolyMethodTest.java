@@ -1,4 +1,4 @@
-package part4.Poly;
+package part4.PolyTest;
 
 import part4.DogCatTest.Animal;
 import part4.DogCatTest.Cat;

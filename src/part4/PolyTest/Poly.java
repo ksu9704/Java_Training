@@ -1,10 +1,10 @@
-package part4.Poly;
+package part4.PolyTest;
 
 import part4.DogCatTest.Animal;
 import part4.DogCatTest.Cat;
 import part4.DogCatTest.Dog;
 
-public class PolyTest {
+public class Poly {
     public static void main(String[] args) {
         // UPcasting으로 객체를 생성
         // 상속관계, 재정의(Override), 동적바인딩

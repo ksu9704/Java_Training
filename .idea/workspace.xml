@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="IsNotOverrideTest">
-      <change afterPath="$PROJECT_DIR$/src/part4/InterfaceTest/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part4/InterfaceTest/Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part4/InterfaceTest/RemoCon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part4/InterfaceTest/TV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Interface" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.Poly.PolyArrayTest" />
+    <configuration name="Poly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.PolyTest.Poly" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.Poly.*" />
+          <option name="PATTERN" value="part4.PolyTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.Poly.PolyTest" />
+    <configuration name="PolyArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.PolyTest.PolyArrayTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.Poly.*" />
+          <option name="PATTERN" value="part4.PolyTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,7 +138,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="18293000" />
+      <workItem from="1686146815081" duration="18597000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -461,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686392693540</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Interface">
+      <created>1686393837663</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1686393837663</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,7 +480,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MemberDTO" />
     <MESSAGE value="MovieDTO" />
     <MESSAGE value="Overloading 정리" />
     <MESSAGE value="Person class" />
@@ -504,6 +504,7 @@
     <MESSAGE value="PolyMethodTest" />
     <MESSAGE value="PolyArray 다형성" />
     <MESSAGE value="IsNotOverrideTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="IsNotOverrideTest" />
+    <MESSAGE value="Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface" />
   </component>
 </project>
