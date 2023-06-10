@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Interface" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="재정의">
+      <change afterPath="$PROJECT_DIR$/src/part4/ObjectTest/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/ObjectTest/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/ObjectTest/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/ObjectTest/Object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/ObjectTest/ObjectPolyArg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/ObjectTest/ObjectPolyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/ObjectTest/ObjectToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,20 +64,7 @@
       <recent name="$PROJECT_DIR$/src/part3/Person_" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Interface">
-    <configuration name="AbstractClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.IsNotOverrideTest.AbstractClassTest" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part4.IsNotOverrideTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.ObjectToString">
     <configuration name="Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part4.InterfaceTest.Interface" />
       <module name="Java_Training" />
@@ -79,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsNotOverride" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.IsNotOverrideTest.IsNotOverride" />
+    <configuration name="Object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.ObjectTest.Object" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.IsNotOverrideTest.*" />
+          <option name="PATTERN" value="part4.ObjectTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Poly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.PolyTest.Poly" />
+    <configuration name="ObjectPolyArg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.ObjectTest.ObjectPolyArg" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.PolyTest.*" />
+          <option name="PATTERN" value="part4.ObjectTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +104,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.PolyTest.PolyArrayTest" />
+    <configuration name="ObjectPolyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.ObjectTest.ObjectPolyArray" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.PolyTest.*" />
+          <option name="PATTERN" value="part4.ObjectTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.ObjectTest.ObjectToString" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part4.ObjectTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ObjectToString" />
+        <item itemvalue="애플리케이션.ObjectPolyArray" />
+        <item itemvalue="애플리케이션.ObjectPolyArg" />
+        <item itemvalue="애플리케이션.Object" />
         <item itemvalue="애플리케이션.Interface" />
-        <item itemvalue="애플리케이션.AbstractClassTest" />
-        <item itemvalue="애플리케이션.IsNotOverride" />
-        <item itemvalue="애플리케이션.PolyArrayTest" />
-        <item itemvalue="애플리케이션.PolyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +150,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="18597000" />
+      <workItem from="1686146815081" duration="21908000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -462,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686393837663</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="재정의">
+      <created>1686394191798</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1686394191798</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MovieDTO" />
     <MESSAGE value="Overloading 정리" />
     <MESSAGE value="Person class" />
     <MESSAGE value="PersonTest" />
@@ -505,6 +523,7 @@
     <MESSAGE value="PolyArray 다형성" />
     <MESSAGE value="IsNotOverrideTest" />
     <MESSAGE value="Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface" />
+    <MESSAGE value="재정의" />
+    <option name="LAST_COMMIT_MESSAGE" value="재정의" />
   </component>
 </project>
