@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="ObjectTest">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/MinMaxFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/MinMaxFinderTest.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="MinMaxFinder">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/RandomAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Training.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,26 +59,13 @@
       <recent name="$PROJECT_DIR$/src/part3/Person_" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.MinMaxFinderTest">
+  <component name="RunManager" selected="애플리케이션.RandomAPI">
     <configuration name="MinMaxFinderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coures2.part1.MinMaxFinderTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Coures2.part1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.ObjectTest.Object" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part4.ObjectTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RandomAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part1.RandomAPI" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coures2.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.RandomAPI" />
         <item itemvalue="애플리케이션.MinMaxFinderTest" />
         <item itemvalue="애플리케이션.ObjectToString" />
         <item itemvalue="애플리케이션.ObjectPolyArray" />
         <item itemvalue="애플리케이션.ObjectPolyArg" />
-        <item itemvalue="애플리케이션.Object" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +145,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="23635000" />
+      <workItem from="1686146815081" duration="24773000" />
     </task>
     <task id="LOCAL-00001" summary="Java_Training">
       <created>1684725938085</created>
@@ -487,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686397650215</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="MinMaxFinder">
+      <created>1686485140333</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1686485140333</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +508,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Person class" />
     <MESSAGE value="PersonTest" />
     <MESSAGE value="CarDTO, Test" />
     <MESSAGE value="CarDAO" />
@@ -530,17 +532,7 @@
     <MESSAGE value="Interface" />
     <MESSAGE value="재정의" />
     <MESSAGE value="ObjectTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="ObjectTest" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Coures2/part1/MinMaxFinderTest.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="MinMaxFinder" />
+    <option name="LAST_COMMIT_MESSAGE" value="MinMaxFinder" />
   </component>
 </project>
