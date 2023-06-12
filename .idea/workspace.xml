@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="IntArrayBasic">
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/IntArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/MyIntArrayTest.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="IntArray">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/BookArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/MyBookArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +63,11 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/part3/Person_" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Coures2.model2" />
+    </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.MyIntArrayTest">
+  <component name="RunManager" selected="애플리케이션.MyBookArrayTest">
     <configuration name="GsonFromAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coures2.part1.GsonFromAPI" />
       <module name="Java_Training" />
@@ -103,6 +107,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyBookArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part1.MyBookArrayTest" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coures2.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyIntArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coures2.part1.MyIntArrayTest" />
       <module name="Java_Training" />
@@ -116,26 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part1.RandomAPI" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coures2.part1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.MyBookArrayTest" />
         <item itemvalue="애플리케이션.MyIntArrayTest" />
         <item itemvalue="애플리케이션.IntArrayBasic" />
         <item itemvalue="애플리케이션.GsonFromAPI" />
         <item itemvalue="애플리케이션.GsonToAPI" />
-        <item itemvalue="애플리케이션.RandomAPI" />
       </list>
     </recent_temporary>
   </component>
@@ -149,14 +153,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="30237000" />
-    </task>
-    <task id="LOCAL-00004" summary="Scanner 학습">
-      <created>1684922937264</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1684922937264</updated>
+      <workItem from="1686146815081" duration="31507000" />
     </task>
     <task id="LOCAL-00005" summary="Scanner 학습">
       <created>1684924411853</created>
@@ -494,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686567308413</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="IntArray">
+      <created>1686568576731</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1686568576731</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CarUtility" />
     <MESSAGE value="AccessModifier" />
     <MESSAGE value="클래스를 접근하는 이름 이해" />
     <MESSAGE value="setter, getter" />
@@ -537,6 +540,7 @@
     <MESSAGE value="Random" />
     <MESSAGE value="GsonFromAPI" />
     <MESSAGE value="IntArrayBasic" />
-    <option name="LAST_COMMIT_MESSAGE" value="IntArrayBasic" />
+    <MESSAGE value="IntArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="IntArray" />
   </component>
 </project>
