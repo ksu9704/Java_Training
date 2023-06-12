@@ -9,7 +9,12 @@ public class ObjectArray {
 
     // 생성동작
     public ObjectArray(){
-        elements = new Object[DEFAULT_CAPACITY]; // 5개 크기배열
+//        elements = new Object[DEFAULT_CAPACITY]; // 5개 크기배열
+        this(5);
+    }
+
+    public ObjectArray(int capacity){
+        elements = new Object[capacity];
     }
 
     // 저장하는 동작

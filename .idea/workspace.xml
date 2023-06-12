@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="BookArrayTest">
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/ObjectTest/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/ObjectTest/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/ObjectTest/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/ObjectTest/ObjectArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/MyObjectArrayTest.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="ObjectArrayTest">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/ArrayListBestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/ArrayListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coures2/model2/ObjectTest/ObjectArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/model2/ObjectTest/ObjectArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/MyObjectArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/MyObjectArrayTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,9 +68,9 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.MyObjectArrayTest">
-    <configuration name="GsonFromAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part1.GsonFromAPI" />
+  <component name="RunManager" selected="애플리케이션.ArrayListBestTest">
+    <configuration name="ArrayListBestTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part1.ArrayListBestTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntArrayBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part1.IntArrayBasic" />
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part1.ArrayListTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ArrayListBestTest" />
+        <item itemvalue="애플리케이션.ArrayListTest" />
         <item itemvalue="애플리케이션.MyObjectArrayTest" />
         <item itemvalue="애플리케이션.MyBookArrayTest" />
         <item itemvalue="애플리케이션.MyIntArrayTest" />
-        <item itemvalue="애플리케이션.IntArrayBasic" />
-        <item itemvalue="애플리케이션.GsonFromAPI" />
       </list>
     </recent_temporary>
   </component>
@@ -155,14 +154,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="32824000" />
-    </task>
-    <task id="LOCAL-00006" summary="삼항 연산자">
-      <created>1685010497750</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1685010497750</updated>
+      <workItem from="1686146815081" duration="34060000" />
     </task>
     <task id="LOCAL-00007" summary="산술, 대입연산자">
       <created>1685013582714</created>
@@ -500,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686569906686</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="ObjectArrayTest">
+      <created>1686571467659</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1686571467659</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="클래스를 접근하는 이름 이해" />
     <MESSAGE value="setter, getter" />
     <MESSAGE value="생성자를 이용한 객체&#10;초기화" />
     <MESSAGE value="잘 설계된 VO 클래스 설계" />
@@ -543,6 +541,7 @@
     <MESSAGE value="IntArrayBasic" />
     <MESSAGE value="IntArray" />
     <MESSAGE value="BookArrayTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="BookArrayTest" />
+    <MESSAGE value="ObjectArrayTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="ObjectArrayTest" />
   </component>
 </project>
