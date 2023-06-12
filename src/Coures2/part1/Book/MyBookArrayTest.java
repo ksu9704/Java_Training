@@ -1,7 +1,7 @@
-package Coures2.part1;
+package Coures2.part1.Book;
 
-import Coures2.model2.Book;
-import Coures2.model2.BookArray;
+import Coures2.model2.ModelBook.Book;
+import Coures2.model2.ModelBook.BookArray;
 
 public class MyBookArrayTest {
     public static void main(String[] args) {

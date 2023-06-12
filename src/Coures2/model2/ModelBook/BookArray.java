@@ -1,4 +1,4 @@
-package Coures2.model2;
+package Coures2.model2.ModelBook;
 
 import java.util.Arrays;
 

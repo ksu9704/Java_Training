@@ -1,4 +1,4 @@
-package Coures2.part1;
+package Coures2.part1.Array;
 
 import Coures2.model2.IntArray;
 

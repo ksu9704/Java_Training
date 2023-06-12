@@ -1,4 +1,4 @@
-package Coures2.model2;
+package Coures2.model2.ModelBook;
 
 public class Book {
     // 멤버변수, 상태정보, 속성(property)

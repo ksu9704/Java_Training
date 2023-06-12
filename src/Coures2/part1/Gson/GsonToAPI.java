@@ -1,4 +1,4 @@
-package Coures2.part1;
+package Coures2.part1.Gson;
 
 import Coures2.model2.Person;
 import com.google.gson.Gson;

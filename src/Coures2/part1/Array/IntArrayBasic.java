@@ -1,4 +1,4 @@
-package Coures2.part1;
+package Coures2.part1.Array;
 
 public class IntArrayBasic {
     public static void main(String[] args) {
