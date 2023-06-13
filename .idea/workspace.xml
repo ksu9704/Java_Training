@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="ObjectArrayTest">
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/ArrayListBestTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/ArrayListTest.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="패키지">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/HelloWorldString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/model2/ObjectTest/ObjectArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/model2/ObjectTest/ObjectArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/MyObjectArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/MyObjectArrayTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ArrayListBestTest">
+  <component name="RunManager" selected="애플리케이션.HelloWorldString">
     <configuration name="ArrayListBestTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coures2.part1.Array.ArrayListBestTest" />
       <module name="Java_Training" />
@@ -95,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyBookArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part1.Book.MyBookArrayTest" />
+    <configuration name="HelloWorldString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part1.HelloWorldString" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part1.Array.*" />
+          <option name="PATTERN" value="Coures2.part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyIntArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part1.Array.MyIntArrayTest" />
+    <configuration name="MyBookArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part1.Book.MyBookArrayTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.HelloWorldString" />
         <item itemvalue="애플리케이션.ArrayListBestTest" />
         <item itemvalue="애플리케이션.ArrayListTest" />
         <item itemvalue="애플리케이션.MyObjectArrayTest" />
         <item itemvalue="애플리케이션.MyBookArrayTest" />
-        <item itemvalue="애플리케이션.MyIntArrayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -154,21 +151,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="34060000" />
-    </task>
-    <task id="LOCAL-00007" summary="산술, 대입연산자">
-      <created>1685013582714</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1685013582714</updated>
-    </task>
-    <task id="LOCAL-00008" summary="관계, 논리연산자">
-      <created>1685015511030</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1685015511030</updated>
+      <workItem from="1686146815081" duration="35681000" />
     </task>
     <task id="LOCAL-00009" summary="논리적인 사고력 if">
       <created>1685030952433</created>
@@ -499,7 +482,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686571467659</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="ArrayListTest">
+      <created>1686572520454</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1686572520454</updated>
+    </task>
+    <task id="LOCAL-00057" summary="패키지">
+      <created>1686572705990</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1686572705990</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +514,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="setter, getter" />
     <MESSAGE value="생성자를 이용한 객체&#10;초기화" />
     <MESSAGE value="잘 설계된 VO 클래스 설계" />
     <MESSAGE value="StudentArrayTest" />
@@ -526,7 +522,6 @@
     <MESSAGE value="패키지화" />
     <MESSAGE value="ClassObjectInstance" />
     <MESSAGE value="Employee" />
-    <MESSAGE value="패키지" />
     <MESSAGE value="OverrideTest" />
     <MESSAGE value="다운케스팅" />
     <MESSAGE value="PolyMethodTest" />
@@ -542,6 +537,8 @@
     <MESSAGE value="IntArray" />
     <MESSAGE value="BookArrayTest" />
     <MESSAGE value="ObjectArrayTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="ObjectArrayTest" />
+    <MESSAGE value="ArrayListTest" />
+    <MESSAGE value="패키지" />
+    <option name="LAST_COMMIT_MESSAGE" value="패키지" />
   </component>
 </project>
