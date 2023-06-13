@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="StringManipulation">
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/StringTest/StringCompare.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="StringCompare">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/StringTest/StringSplit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,22 +64,9 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.StringCompare">
+  <component name="RunManager" selected="애플리케이션.StringSplit">
     <configuration name="ArrayListBestTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coures2.part1.Array.ArrayListBestTest" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coures2.part1.Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part1.Array.ArrayListTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -130,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part1.StringTest.StringSplit" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coures2.part1.StringTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.StringSplit" />
         <item itemvalue="애플리케이션.StringCompare" />
         <item itemvalue="애플리케이션.StringManipulation" />
         <item itemvalue="애플리케이션.HelloWorldString" />
         <item itemvalue="애플리케이션.ArrayListBestTest" />
-        <item itemvalue="애플리케이션.ArrayListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -150,14 +150,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="37044000" />
-    </task>
-    <task id="LOCAL-00011" summary="switch- case">
-      <created>1685244823880</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1685244823880</updated>
+      <workItem from="1686146815081" duration="37365000" />
     </task>
     <task id="LOCAL-00012" summary=" for">
       <created>1685246795460</created>
@@ -495,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686662388358</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="StringCompare">
+      <created>1686662763641</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1686662763641</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -513,7 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="StudentArrayTest" />
     <MESSAGE value="DTO 이동" />
     <MESSAGE value="Static" />
     <MESSAGE value="패키지화" />
@@ -538,6 +537,7 @@
     <MESSAGE value="패키지" />
     <MESSAGE value="HelloWorldString" />
     <MESSAGE value="StringManipulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="StringManipulation" />
+    <MESSAGE value="StringCompare" />
+    <option name="LAST_COMMIT_MESSAGE" value="StringCompare" />
   </component>
 </project>
