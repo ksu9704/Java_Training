@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="HelloWorldString">
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/StringTest/StringManipulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/HelloWorldString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/StringTest/HelloWorldString.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="StringManipulation">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/StringTest/StringCompare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.StringManipulation">
+  <component name="RunManager" selected="애플리케이션.StringCompare">
     <configuration name="ArrayListBestTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coures2.part1.Array.ArrayListBestTest" />
       <module name="Java_Training" />
@@ -106,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyObjectArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part1.Array.MyObjectArrayTest" />
+    <configuration name="StringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part1.StringTest.StringCompare" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part1.Array.*" />
+          <option name="PATTERN" value="Coures2.part1.StringTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.StringCompare" />
         <item itemvalue="애플리케이션.StringManipulation" />
         <item itemvalue="애플리케이션.HelloWorldString" />
         <item itemvalue="애플리케이션.ArrayListBestTest" />
         <item itemvalue="애플리케이션.ArrayListTest" />
-        <item itemvalue="애플리케이션.MyObjectArrayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -152,14 +150,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="36701000" />
-    </task>
-    <task id="LOCAL-00010" summary="논리적인 사고력 if - else if">
-      <created>1685244044960</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1685244044960</updated>
+      <workItem from="1686146815081" duration="37044000" />
     </task>
     <task id="LOCAL-00011" summary="switch- case">
       <created>1685244823880</created>
@@ -497,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686661475677</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="StringManipulation">
+      <created>1686662388358</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1686662388358</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,7 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="잘 설계된 VO 클래스 설계" />
     <MESSAGE value="StudentArrayTest" />
     <MESSAGE value="DTO 이동" />
     <MESSAGE value="Static" />
@@ -540,6 +537,7 @@
     <MESSAGE value="ArrayListTest" />
     <MESSAGE value="패키지" />
     <MESSAGE value="HelloWorldString" />
-    <option name="LAST_COMMIT_MESSAGE" value="HelloWorldString" />
+    <MESSAGE value="StringManipulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="StringManipulation" />
   </component>
 </project>
