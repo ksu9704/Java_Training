@@ -1,4 +1,4 @@
-package Coures2.part1;
+package Coures2.part1.StringTest;
 
 public class HelloWorldString {
     public static void main(String[] args) {
