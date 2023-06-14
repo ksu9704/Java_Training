@@ -1,5 +1,7 @@
 package Coures2.model2;
 
+import Coures2.model2.Interface.CC;
+
 public class BB implements CC {
 
     @Override

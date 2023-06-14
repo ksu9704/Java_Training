@@ -1,6 +1,6 @@
 package Coures2.part1.Array;
 
-import Coures2.model2.IntArray;
+import Coures2.model2.Interface.IntArray;
 
 public class MyIntArrayTest {
     public static void main(String[] args) {

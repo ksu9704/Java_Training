@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="StringSplit">
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/BB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/CC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/IntefaceAPI.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="IntefaceAPI">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/DataBase/MSSQLDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/DataBase/MySQLDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/DataBase/OracleDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/Interface/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/DataBaseConnection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coures2/model2/BB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/model2/BB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coures2/model2/CC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/model2/Interface/CC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coures2/model2/IntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/model2/Interface/IntArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/Array/MyIntArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/Array/MyIntArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/IntefaceAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/IntefaceAPI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +74,13 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.IntefaceAPI">
-    <configuration name="HelloWorldString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part1.StringTest.HelloWorldString" />
+  <component name="RunManager" selected="애플리케이션.DataBaseConnection">
+    <configuration name="DataBaseConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part1.DataBaseConnection" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part1.StringTest.*" />
+          <option name="PATTERN" value="Coures2.part1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.DataBaseConnection" />
         <item itemvalue="애플리케이션.IntefaceAPI" />
         <item itemvalue="애플리케이션.StringSplit" />
         <item itemvalue="애플리케이션.StringCompare" />
         <item itemvalue="애플리케이션.StringManipulation" />
-        <item itemvalue="애플리케이션.HelloWorldString" />
       </list>
     </recent_temporary>
   </component>
@@ -153,14 +160,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="38676000" />
-    </task>
-    <task id="LOCAL-00013" summary="java training">
-      <created>1685352066472</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1685352066472</updated>
+      <workItem from="1686146815081" duration="39696000" />
     </task>
     <task id="LOCAL-00014" summary="Method">
       <created>1685364809517</created>
@@ -498,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686663185316</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="IntefaceAPI">
+      <created>1686736142755</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1686736142755</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +523,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Static" />
     <MESSAGE value="패키지화" />
     <MESSAGE value="ClassObjectInstance" />
     <MESSAGE value="Employee" />
@@ -541,6 +547,7 @@
     <MESSAGE value="StringManipulation" />
     <MESSAGE value="StringCompare" />
     <MESSAGE value="StringSplit" />
-    <option name="LAST_COMMIT_MESSAGE" value="StringSplit" />
+    <MESSAGE value="IntefaceAPI" />
+    <option name="LAST_COMMIT_MESSAGE" value="IntefaceAPI" />
   </component>
 </project>
