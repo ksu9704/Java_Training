@@ -1,4 +1,4 @@
-package Coures2.part1;
+package Coures2.part1.APITest;
 
 import java.util.Random;
 

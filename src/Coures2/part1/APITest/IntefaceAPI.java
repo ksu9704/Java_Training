@@ -1,4 +1,4 @@
-package Coures2.part1;
+package Coures2.part1.APITest;
 
 import Coures2.model2.BB;
 import Coures2.model2.Interface.CC;

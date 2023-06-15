@@ -1,4 +1,4 @@
-package Coures2.part1;
+package Coures2.part1.Test;
 
 import Coures2.model2.DataBase.MSSQLDriver;
 import Coures2.model2.DataBase.MySQLDriver;

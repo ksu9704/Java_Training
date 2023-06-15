@@ -1,4 +1,4 @@
-package Coures2.part1;
+package Coures2.part1.Test;
 
 public class IntegerStringTest {
     public static void main(String[] args) {
