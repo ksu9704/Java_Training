@@ -1,4 +1,4 @@
-package Coures2.part2;
+package Coures2.part2.ArrayListTest;
 
 import Coures2.model2.Movie;
 

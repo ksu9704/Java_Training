@@ -1,4 +1,4 @@
-package Coures2.part2;
+package Coures2.part2.HashSetTest;
 
 import java.util.HashSet;
 import java.util.Set;

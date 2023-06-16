@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="MovieListExample">
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/UniqueNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/hashSetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="HashSet">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/Key_Value/CharacterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/Key_Value/MapExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -69,11 +68,11 @@
   </component>
   <component name="RunManager" selected="애플리케이션.UniqueNumbers">
     <configuration name="CollectionBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.CollectionBasic" />
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.ArrayListTest.CollectionBasic" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.*" />
+          <option name="PATTERN" value="Coures2.part2.Key_Value.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,11 +81,11 @@
       </method>
     </configuration>
     <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.ListExample" />
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.ArrayListTest.ListExample" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.*" />
+          <option name="PATTERN" value="Coures2.part2.Key_Value.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +94,11 @@
       </method>
     </configuration>
     <configuration name="MovieListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.MovieListExample" />
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.ArrayListTest.MovieListExample" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.*" />
+          <option name="PATTERN" value="Coures2.part2.Key_Value.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +107,11 @@
       </method>
     </configuration>
     <configuration name="UniqueNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.UniqueNumbers" />
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.HashSetTest.UniqueNumbers" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.*" />
+          <option name="PATTERN" value="Coures2.part2.Key_Value.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +120,11 @@
       </method>
     </configuration>
     <configuration name="hashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.hashSetExample" />
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.HashSetTest.hashSetExample" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.*" />
+          <option name="PATTERN" value="Coures2.part2.Key_Value.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,14 +152,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="46824000" />
-    </task>
-    <task id="LOCAL-00020" summary="MovieDTO">
-      <created>1685535182405</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1685535182405</updated>
+      <workItem from="1686146815081" duration="47175000" />
     </task>
     <task id="LOCAL-00021" summary="Overloading 정리">
       <created>1685535236910</created>
@@ -498,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686906333318</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="HashSet">
+      <created>1686919238809</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1686919238809</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PolyMethodTest" />
     <MESSAGE value="PolyArray 다형성" />
     <MESSAGE value="IsNotOverrideTest" />
     <MESSAGE value="Interface" />
@@ -541,6 +539,7 @@
     <MESSAGE value="CollectionBasic" />
     <MESSAGE value="패키지" />
     <MESSAGE value="MovieListExample" />
-    <option name="LAST_COMMIT_MESSAGE" value="MovieListExample" />
+    <MESSAGE value="HashSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashSet" />
   </component>
 </project>
