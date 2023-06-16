@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="CollectionBasic">
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="패키지">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/MovieListExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +67,7 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.CollectionBasic">
+  <component name="RunManager" selected="애플리케이션.MovieListExample">
     <configuration name="CollectionBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coures2.part2.CollectionBasic" />
       <module name="Java_Training" />
@@ -78,34 +81,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataBaseConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part1.Test.DataBaseConnection" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coures2.part2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntefaceAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part1.APITest.IntefaceAPI" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coures2.part2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="IntegerStringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coures2.part2.IntegerStringTest" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coures2.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.ListExample" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coures2.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.MovieListExample" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.MovieListExample" />
+        <item itemvalue="애플리케이션.ListExample" />
         <item itemvalue="애플리케이션.CollectionBasic" />
         <item itemvalue="애플리케이션.IntegerStringTest" />
         <item itemvalue="애플리케이션.WrapperTest" />
-        <item itemvalue="애플리케이션.DataBaseConnection" />
-        <item itemvalue="애플리케이션.IntefaceAPI" />
       </list>
     </recent_temporary>
   </component>
@@ -150,14 +153,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="43778000" />
-    </task>
-    <task id="LOCAL-00018" summary="BookDTO">
-      <created>1685535065542</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1685535065542</updated>
+      <workItem from="1686146815081" duration="44806000" />
     </task>
     <task id="LOCAL-00019" summary="MemberDTO">
       <created>1685535133944</created>
@@ -495,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686831427683</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="패키지">
+      <created>1686905088897</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1686905088897</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,7 +531,6 @@
     <MESSAGE value="BookArrayTest" />
     <MESSAGE value="ObjectArrayTest" />
     <MESSAGE value="ArrayListTest" />
-    <MESSAGE value="패키지" />
     <MESSAGE value="HelloWorldString" />
     <MESSAGE value="StringManipulation" />
     <MESSAGE value="StringCompare" />
@@ -538,6 +540,7 @@
     <MESSAGE value="WrapperTest" />
     <MESSAGE value="IntegerStringTest" />
     <MESSAGE value="CollectionBasic" />
-    <option name="LAST_COMMIT_MESSAGE" value="CollectionBasic" />
+    <MESSAGE value="패키지" />
+    <option name="LAST_COMMIT_MESSAGE" value="패키지" />
   </component>
 </project>
