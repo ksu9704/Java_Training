@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="IntegerStringTest">
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part1/Test/CollectionBasic.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="CollectionBasic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/DataBaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/Test/DataBaseConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/IntefaceAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/APITest/IntefaceAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/IntegerStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/Test/IntegerStringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/MinMaxFinderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/Test/MinMaxFinderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/RandomAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/APITest/RandomAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/WrapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/Test/WrapperTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,11 +66,11 @@
   </component>
   <component name="RunManager" selected="애플리케이션.CollectionBasic">
     <configuration name="CollectionBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part1.Test.CollectionBasic" />
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.CollectionBasic" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part1.Test.*" />
+          <option name="PATTERN" value="Coures2.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,7 +83,7 @@
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part1.Test.*" />
+          <option name="PATTERN" value="Coures2.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,7 +96,7 @@
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part1.Test.*" />
+          <option name="PATTERN" value="Coures2.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="IntegerStringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part1.Test.IntegerStringTest" />
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.IntegerStringTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part1.Test.*" />
+          <option name="PATTERN" value="Coures2.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +118,11 @@
       </method>
     </configuration>
     <configuration name="WrapperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part1.Test.WrapperTest" />
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.WrapperTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part1.Test.*" />
+          <option name="PATTERN" value="Coures2.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,14 +150,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="42012000" />
-    </task>
-    <task id="LOCAL-00017" summary="part 정리">
-      <created>1685534909822</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1685534909822</updated>
+      <workItem from="1686146815081" duration="43778000" />
     </task>
     <task id="LOCAL-00018" summary="BookDTO">
       <created>1685535065542</created>
@@ -502,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686830954635</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="CollectionBasic">
+      <created>1686831427683</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1686831427683</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,7 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="OverrideTest" />
     <MESSAGE value="다운케스팅" />
     <MESSAGE value="PolyMethodTest" />
     <MESSAGE value="PolyArray 다형성" />
@@ -545,6 +537,7 @@
     <MESSAGE value="DataBaseConnection" />
     <MESSAGE value="WrapperTest" />
     <MESSAGE value="IntegerStringTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="IntegerStringTest" />
+    <MESSAGE value="CollectionBasic" />
+    <option name="LAST_COMMIT_MESSAGE" value="CollectionBasic" />
   </component>
 </project>

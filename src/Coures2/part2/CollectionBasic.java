@@ -1,4 +1,4 @@
-package Coures2.part1.Test;
+package Coures2.part2;
 
 import java.util.ArrayList;
 
