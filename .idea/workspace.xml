@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="패키지">
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/ListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/MovieListExample.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="MovieListExample">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/UniqueNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/hashSetExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +22,7 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -67,22 +67,9 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.MovieListExample">
+  <component name="RunManager" selected="애플리케이션.UniqueNumbers">
     <configuration name="CollectionBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coures2.part2.CollectionBasic" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coures2.part2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntegerStringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.IntegerStringTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +107,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.WrapperTest" />
+    <configuration name="UniqueNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.UniqueNumbers" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coures2.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.hashSetExample" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.UniqueNumbers" />
+        <item itemvalue="애플리케이션.hashSetExample" />
         <item itemvalue="애플리케이션.MovieListExample" />
         <item itemvalue="애플리케이션.ListExample" />
         <item itemvalue="애플리케이션.CollectionBasic" />
-        <item itemvalue="애플리케이션.IntegerStringTest" />
-        <item itemvalue="애플리케이션.WrapperTest" />
       </list>
     </recent_temporary>
   </component>
@@ -153,14 +153,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="44806000" />
-    </task>
-    <task id="LOCAL-00019" summary="MemberDTO">
-      <created>1685535133944</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1685535133944</updated>
+      <workItem from="1686146815081" duration="46824000" />
     </task>
     <task id="LOCAL-00020" summary="MovieDTO">
       <created>1685535182405</created>
@@ -498,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686905088897</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="MovieListExample">
+      <created>1686906333317</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1686906333318</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="다운케스팅" />
     <MESSAGE value="PolyMethodTest" />
     <MESSAGE value="PolyArray 다형성" />
     <MESSAGE value="IsNotOverrideTest" />
@@ -541,6 +540,7 @@
     <MESSAGE value="IntegerStringTest" />
     <MESSAGE value="CollectionBasic" />
     <MESSAGE value="패키지" />
-    <option name="LAST_COMMIT_MESSAGE" value="패키지" />
+    <MESSAGE value="MovieListExample" />
+    <option name="LAST_COMMIT_MESSAGE" value="MovieListExample" />
   </component>
 </project>
