@@ -1,7 +1,6 @@
-package Coures2.part2.GenericTest;
+package Coures2.part2.GenericTest.ObjectArrayTest;
 
 import Coures2.model2.Movie;
-import Coures2.part2.GenericTest.ObjectArrayTest.ObjectArray;
 
 public class Generic {
     public static void main(String[] args) {
