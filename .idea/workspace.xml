@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="패키지">
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Key-Value로 데이터를&#10;관리">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/GenericTest/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/GenericTest/ObjectArrayTest/ObjectArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part2/Key_Value/CharacterCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part2/Key_Value/CharacterCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part2/Key_Value/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part2/Key_Value/MapExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.CharacterCount">
+  <component name="RunManager" selected="애플리케이션.Generic">
     <configuration name="CharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coures2.part2.Key_Value.CharacterCount" />
       <module name="Java_Training" />
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.Key_Value.MapExample" />
+    <configuration name="Generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.GenericTest.Generic" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.Key_Value.*" />
+          <option name="PATTERN" value="Coures2.part2.GenericTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.ArrayListTest.MovieListExample" />
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.Key_Value.MapExample" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Generic" />
         <item itemvalue="애플리케이션.CharacterCount" />
         <item itemvalue="애플리케이션.MapExample" />
         <item itemvalue="애플리케이션.UniqueNumbers" />
         <item itemvalue="애플리케이션.hashSetExample" />
-        <item itemvalue="애플리케이션.MovieListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -153,14 +153,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="48410000" />
-    </task>
-    <task id="LOCAL-00022" summary="Person class">
-      <created>1685537740754</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1685537740754</updated>
+      <workItem from="1686146815081" duration="49867000" />
     </task>
     <task id="LOCAL-00023" summary="PersonTest">
       <created>1685543412911</created>
@@ -498,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686919741726</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Key-Value로 데이터를&#10;관리">
+      <created>1686920835525</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1686920835525</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PolyArray 다형성" />
     <MESSAGE value="IsNotOverrideTest" />
     <MESSAGE value="Interface" />
     <MESSAGE value="재정의" />
@@ -541,6 +540,7 @@
     <MESSAGE value="MovieListExample" />
     <MESSAGE value="HashSet" />
     <MESSAGE value="패키지" />
-    <option name="LAST_COMMIT_MESSAGE" value="패키지" />
+    <MESSAGE value="Key-Value로 데이터를&#10;관리" />
+    <option name="LAST_COMMIT_MESSAGE" value="Key-Value로 데이터를&#10;관리" />
   </component>
 </project>
