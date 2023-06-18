@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Math">
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/IntegerUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/IntegerUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/SortCompareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/StringUtilsTest.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="함수형 인터페이스 메서드 참조">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/LambdaExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +67,13 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.PersonFactoryTest">
-    <configuration name="FunctionInterfaceTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.FunctionInterface.FunctionInterfaceTest1" />
+  <component name="RunManager" selected="애플리케이션.LambdaExample">
+    <configuration name="IntegerUtilsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.IntegerUtilsTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.FunctionInterface.*" />
+          <option name="PATTERN" value="Coures2.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerUtilsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.IntegerUtilsTest" />
+    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.LambdaExample" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.LambdaExample" />
         <item itemvalue="애플리케이션.PersonFactoryTest" />
         <item itemvalue="애플리케이션.SortCompareTest" />
         <item itemvalue="애플리케이션.StringUtilsTest" />
         <item itemvalue="애플리케이션.IntegerUtilsTest" />
-        <item itemvalue="애플리케이션.FunctionInterfaceTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -158,14 +153,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="54452000" />
-    </task>
-    <task id="LOCAL-00027" summary="AccessModifier">
-      <created>1685716503798</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1685716503798</updated>
+      <workItem from="1686146815081" duration="55200000" />
     </task>
     <task id="LOCAL-00028" summary="클래스를 접근하는 이름 이해">
       <created>1685801278879</created>
@@ -503,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687078824247</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="함수형 인터페이스 메서드 참조">
+      <created>1687080591530</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1687080591530</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -521,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MinMaxFinder" />
     <MESSAGE value="Random" />
     <MESSAGE value="GsonFromAPI" />
     <MESSAGE value="IntArrayBasic" />
@@ -546,6 +540,7 @@
     <MESSAGE value="PairGeneric" />
     <MESSAGE value="GenericLimit" />
     <MESSAGE value="Math" />
-    <option name="LAST_COMMIT_MESSAGE" value="Math" />
+    <MESSAGE value="함수형 인터페이스 메서드 참조" />
+    <option name="LAST_COMMIT_MESSAGE" value="함수형 인터페이스 메서드 참조" />
   </component>
 </project>
