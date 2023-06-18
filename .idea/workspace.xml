@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="PairGeneric">
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/GenericTest/GenericLimitTest/AverageCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/GenericTest/GenericLimitTest/GenericLimit.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="GenericLimit">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/DataBase/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/model2/DataBase/MathOperationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/FunctionInterface/FunctionInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/FunctionInterface/FunctionInterfaceTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/FunctionInterface/FunctionInterfaceTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +70,7 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.GenericLimit">
+  <component name="RunManager" selected="애플리케이션.FunctionInterfaceTest1">
     <configuration name="ArrayListGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coures2.part2.GenericTest.ObjectArrayTest.ArrayListGeneric" />
       <module name="Java_Training" />
@@ -81,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.Key_Value.CharacterCount" />
+    <configuration name="FunctionInterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.FunctionInterface.FunctionInterfaceTest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.Key_Value.*" />
+          <option name="PATTERN" value="Coures2.part2.FunctionInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.GenericTest.ObjectArrayTest.Generic" />
+    <configuration name="FunctionInterfaceTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.FunctionInterface.FunctionInterfaceTest1" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.GenericTest.PairGenericTest.*" />
+          <option name="PATTERN" value="Coures2.part2.FunctionInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.FunctionInterfaceTest1" />
+        <item itemvalue="애플리케이션.FunctionInterfaceTest" />
         <item itemvalue="애플리케이션.GenericLimit" />
         <item itemvalue="애플리케이션.PairGeneric" />
         <item itemvalue="애플리케이션.ArrayListGeneric" />
-        <item itemvalue="애플리케이션.Generic" />
-        <item itemvalue="애플리케이션.CharacterCount" />
       </list>
     </recent_temporary>
   </component>
@@ -153,14 +156,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="51244000" />
-    </task>
-    <task id="LOCAL-00025" summary="CarDAO">
-      <created>1685619831980</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1685619831980</updated>
+      <workItem from="1686146815081" duration="52980000" />
     </task>
     <task id="LOCAL-00026" summary="CarUtility">
       <created>1685621651140</created>
@@ -498,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687002931801</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="GenericLimit">
+      <created>1687003115847</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1687003115847</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="재정의" />
     <MESSAGE value="ObjectTest" />
     <MESSAGE value="MinMaxFinder" />
     <MESSAGE value="Random" />
@@ -541,6 +543,7 @@
     <MESSAGE value="Key-Value로 데이터를&#10;관리" />
     <MESSAGE value="ObjectArray" />
     <MESSAGE value="PairGeneric" />
-    <option name="LAST_COMMIT_MESSAGE" value="PairGeneric" />
+    <MESSAGE value="GenericLimit" />
+    <option name="LAST_COMMIT_MESSAGE" value="GenericLimit" />
   </component>
 </project>
