@@ -1,6 +1,6 @@
-package Coures2.part2;
+package Coures2.part2.Lambda;
 
-import Coures2.model2.StringOperation;
+import Coures2.model2.Math.StringOperation;
 
 public class LambdaApply {
     public static void main(String[] args) {

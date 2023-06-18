@@ -1,7 +1,7 @@
-package Coures2.part2;
+package Coures2.part2.Part2Test;
 
-import Coures2.model2.Converter;
-import Coures2.model2.StringUtils;
+import Coures2.model2.Math.Converter;
+import Coures2.model2.Math.StringUtils;
 
 public class StringUtilsTest {
     public static void main(String[] args) {

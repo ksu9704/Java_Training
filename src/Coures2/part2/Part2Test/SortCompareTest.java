@@ -1,4 +1,4 @@
-package Coures2.part2;
+package Coures2.part2.Part2Test;
 
 import java.util.Arrays;
 import java.util.Collections;

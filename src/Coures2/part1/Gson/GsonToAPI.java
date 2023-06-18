@@ -1,6 +1,6 @@
 package Coures2.part1.Gson;
 
-import Coures2.model2.Person;
+import Coures2.model2.Math.Person;
 import com.google.gson.Gson;
 
 public class GsonToAPI {

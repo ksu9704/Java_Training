@@ -1,7 +1,7 @@
-package Coures2.part2;
+package Coures2.part2.Part2Test;
 
-import Coures2.model2.Person;
-import Coures2.model2.PersonFactory;
+import Coures2.model2.Math.Person;
+import Coures2.model2.Math.PersonFactory;
 
 public class PersonFactoryTest {
     public static void main(String[] args) {

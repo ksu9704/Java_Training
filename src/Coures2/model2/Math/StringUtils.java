@@ -1,4 +1,4 @@
-package Coures2.model2;
+package Coures2.model2.Math;
 
 public class StringUtils {
     public String  reverse(String s) {

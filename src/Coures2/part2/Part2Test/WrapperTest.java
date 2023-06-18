@@ -1,4 +1,4 @@
-package Coures2.part2;
+package Coures2.part2.Part2Test;
 
 public class WrapperTest {
     public static void main(String[] args) {

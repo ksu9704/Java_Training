@@ -1,6 +1,6 @@
 package Coures2.part2.GenericTest.ObjectArrayTest;
 
-import Coures2.model2.Movie;
+import Coures2.model2.Math.Movie;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
 package Coures2.part1.Test;
 
-import Coures2.model2.MinMaxFinder;
+import Coures2.model2.Math.MinMaxFinder;
 
 public class MinMaxFinderTest {
     public static void main(String[] args) {
