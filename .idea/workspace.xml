@@ -96,11 +96,11 @@
       </method>
     </configuration>
     <configuration name="MapStreamExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.MapStreamExample2" />
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.StreamAPI.MapStreamExample2" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.*" />
+          <option name="PATTERN" value="Coures2.part2.StreamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
       </method>
     </configuration>
     <configuration name="StreamAPITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.StreamAPITest" />
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.StreamAPI.StreamAPITest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.*" />
+          <option name="PATTERN" value="Coures2.part2.StreamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
       </method>
     </configuration>
     <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.StreamExample" />
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.StreamAPI.StreamExample" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.*" />
+          <option name="PATTERN" value="Coures2.part2.StreamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

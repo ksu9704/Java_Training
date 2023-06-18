@@ -1,4 +1,4 @@
-package Coures2.part2;
+package Coures2.part2.StreamAPI;
 
 import java.util.Arrays;
 
