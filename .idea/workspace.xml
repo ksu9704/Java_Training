@@ -4,31 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="LambdaApply">
-      <change beforePath="$PROJECT_DIR$/src/Coures2/model2/BB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/model2/Math/BB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/model2/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/model2/Math/Converter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/model2/IntegerUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/model2/Math/IntegerUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/model2/MinMaxFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/model2/Math/MinMaxFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/model2/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/model2/Math/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/model2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/model2/Math/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/model2/PersonFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/model2/Math/PersonFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/model2/StringOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/model2/Math/StringOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/model2/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/model2/Math/StringUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/APITest/IntefaceAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/APITest/IntefaceAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/Gson/GsonFromAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/Gson/GsonFromAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/Gson/GsonToAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/Gson/GsonToAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part1/Test/MinMaxFinderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part1/Test/MinMaxFinderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part2/ArrayListTest/MovieListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part2/ArrayListTest/MovieListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part2/GenericTest/ObjectArrayTest/ArrayListGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part2/GenericTest/ObjectArrayTest/ArrayListGeneric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part2/GenericTest/ObjectArrayTest/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part2/GenericTest/ObjectArrayTest/Generic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part2/IntegerStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part2/Integer/IntegerStringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part2/IntegerUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part2/Integer/IntegerUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part2/LambdaApply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part2/Lambda/LambdaApply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part2/LambdaExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part2/Lambda/LambdaExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part2/PersonFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part2/Part2Test/PersonFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part2/SortCompareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part2/Part2Test/SortCompareTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part2/StringUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part2/Part2Test/StringUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coures2/part2/WrapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coures2/part2/Part2Test/WrapperTest.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="패키지">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/StreamAPITest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +66,7 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.LambdaApply">
+  <component name="RunManager" selected="애플리케이션.StreamAPITest">
     <configuration name="LambdaApply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coures2.part2.Lambda.LambdaApply" />
       <module name="Java_Training" />
@@ -142,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringUtilsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.Part2Test.StringUtilsTest" />
+    <configuration name="StreamAPITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part2.StreamAPITest" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.Lambda.*" />
+          <option name="PATTERN" value="Coures2.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.StreamAPITest" />
         <item itemvalue="애플리케이션.LambdaApply" />
         <item itemvalue="애플리케이션.LambdaExample" />
         <item itemvalue="애플리케이션.PersonFactoryTest" />
         <item itemvalue="애플리케이션.SortCompareTest" />
-        <item itemvalue="애플리케이션.StringUtilsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -175,14 +152,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="56171000" />
-    </task>
-    <task id="LOCAL-00030" summary="생성자를 이용한 객체&#10;초기화">
-      <created>1685876745446</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1685876745446</updated>
+      <workItem from="1686146815081" duration="56575000" />
     </task>
     <task id="LOCAL-00031" summary="잘 설계된 VO 클래스 설계">
       <created>1685884812321</created>
@@ -520,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687081853057</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="패키지">
+      <created>1687082028179</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1687082028179</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,7 +531,6 @@
     <MESSAGE value="CollectionBasic" />
     <MESSAGE value="MovieListExample" />
     <MESSAGE value="HashSet" />
-    <MESSAGE value="패키지" />
     <MESSAGE value="Key-Value로 데이터를&#10;관리" />
     <MESSAGE value="ObjectArray" />
     <MESSAGE value="PairGeneric" />
@@ -563,6 +539,7 @@
     <MESSAGE value="함수형 인터페이스 메서드 참조" />
     <MESSAGE value="람다식" />
     <MESSAGE value="LambdaApply" />
-    <option name="LAST_COMMIT_MESSAGE" value="LambdaApply" />
+    <MESSAGE value="패키지" />
+    <option name="LAST_COMMIT_MESSAGE" value="패키지" />
   </component>
 </project>
