@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Stream API">
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/MapStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part2/StreamExample.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Stream API의 활용">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/model3/GsonTest/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/model3/GsonTest/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/model3/GsonTest/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part3/GsonAPI/GsonMemAddfromJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part3/GsonAPI/GsonMemAddtoJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part3/GsonAPI/GsonfromJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coures2/part3/GsonAPI/GsontoJson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +73,13 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.MapStreamExample2">
-    <configuration name="LambdaApply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.Lambda.LambdaApply" />
+  <component name="RunManager" selected="애플리케이션.GsonMemAddfromJson">
+    <configuration name="GsonMemAddfromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part3.GsonAPI.GsonMemAddfromJson" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.Lambda.*" />
+          <option name="PATTERN" value="Coures2.part3.GsonAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +87,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.Lambda.LambdaExample" />
+    <configuration name="GsonMemAddtoJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part3.GsonAPI.GsonMemAddtoJson" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.Lambda.*" />
+          <option name="PATTERN" value="Coures2.part3.GsonAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GsonfromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part3.GsonAPI.GsonfromJson" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coures2.part3.GsonAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GsontoJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.part3.GsonAPI.GsontoJson" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coures2.part3.GsonAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,39 +139,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamAPITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.StreamAPI.StreamAPITest" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coures2.part2.StreamAPI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.StreamAPI.StreamExample" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coures2.part2.StreamAPI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.GsonMemAddfromJson" />
+        <item itemvalue="애플리케이션.GsonMemAddtoJson" />
+        <item itemvalue="애플리케이션.GsonfromJson" />
+        <item itemvalue="애플리케이션.GsontoJson" />
         <item itemvalue="애플리케이션.MapStreamExample2" />
-        <item itemvalue="애플리케이션.StreamExample" />
-        <item itemvalue="애플리케이션.StreamAPITest" />
-        <item itemvalue="애플리케이션.LambdaApply" />
-        <item itemvalue="애플리케이션.LambdaExample" />
       </list>
     </recent_temporary>
   </component>
@@ -154,21 +159,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="57188000" />
-    </task>
-    <task id="LOCAL-00032" summary="StudentArrayTest">
-      <created>1685961647354</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1685961647354</updated>
-    </task>
-    <task id="LOCAL-00033" summary="DTO 이동">
-      <created>1686049916904</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1686049916904</updated>
+      <workItem from="1686146815081" duration="59796000" />
     </task>
     <task id="LOCAL-00034" summary="패키지화">
       <created>1686050039771</created>
@@ -499,7 +490,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687082716687</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Stream API의 활용">
+      <created>1687083244482</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1687083244482</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Stream API의 활용">
+      <created>1687083276986</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1687083276986</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="IntArray" />
     <MESSAGE value="BookArrayTest" />
     <MESSAGE value="ObjectArrayTest" />
     <MESSAGE value="ArrayListTest" />
@@ -542,6 +546,7 @@
     <MESSAGE value="LambdaApply" />
     <MESSAGE value="패키지" />
     <MESSAGE value="Stream API" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream API" />
+    <MESSAGE value="Stream API의 활용" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream API의 활용" />
   </component>
 </project>
