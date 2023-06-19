@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Stream API의 활용">
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model3/GsonTest/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model3/GsonTest/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/model3/GsonTest/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part3/GsonAPI/GsonMemAddfromJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part3/GsonAPI/GsonMemAddtoJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part3/GsonAPI/GsonfromJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part3/GsonAPI/GsontoJson.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Gson API 활용">
+      <change afterPath="$PROJECT_DIR$/src/Coures2/model3/Jsoup/JsoupExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_8_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_9.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +53,7 @@
     "project.structure.last.edited": "라이브러리",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -73,7 +68,7 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.GsonMemAddfromJson">
+  <component name="RunManager" selected="애플리케이션.JsoupExample">
     <configuration name="GsonMemAddfromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Coures2.part3.GsonAPI.GsonMemAddfromJson" />
       <module name="Java_Training" />
@@ -126,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapStreamExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part2.StreamAPI.MapStreamExample2" />
+    <configuration name="JsoupExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coures2.model3.Jsoup.JsoupExample" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part2.StreamAPI.*" />
+          <option name="PATTERN" value="Coures2.model3.Jsoup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.JsoupExample" />
         <item itemvalue="애플리케이션.GsonMemAddfromJson" />
         <item itemvalue="애플리케이션.GsonMemAddtoJson" />
         <item itemvalue="애플리케이션.GsonfromJson" />
         <item itemvalue="애플리케이션.GsontoJson" />
-        <item itemvalue="애플리케이션.MapStreamExample2" />
       </list>
     </recent_temporary>
   </component>
@@ -159,14 +154,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="59796000" />
-    </task>
-    <task id="LOCAL-00034" summary="패키지화">
-      <created>1686050039771</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1686050039771</updated>
+      <workItem from="1686146815081" duration="60296000" />
     </task>
     <task id="LOCAL-00035" summary="패키지">
       <created>1686050357653</created>
@@ -504,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687083276986</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Gson API 활용">
+      <created>1687182796289</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1687182796289</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BookArrayTest" />
     <MESSAGE value="ObjectArrayTest" />
     <MESSAGE value="ArrayListTest" />
     <MESSAGE value="HelloWorldString" />
@@ -547,6 +541,7 @@
     <MESSAGE value="패키지" />
     <MESSAGE value="Stream API" />
     <MESSAGE value="Stream API의 활용" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream API의 활용" />
+    <MESSAGE value="Gson API 활용" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gson API 활용" />
   </component>
 </project>
