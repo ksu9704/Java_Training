@@ -122,11 +122,11 @@
       </method>
     </configuration>
     <configuration name="JsoupExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.model3.Jsoup.JsoupExample" />
+      <option name="MAIN_CLASS_NAME" value="Coures2.part3.JsoupAPI.JsoupExample" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.model3.Jsoup.*" />
+          <option name="PATTERN" value="Coures2.part3.JsoupAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

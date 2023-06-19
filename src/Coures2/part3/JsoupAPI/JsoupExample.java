@@ -1,4 +1,4 @@
-package Coures2.model3.Jsoup;
+package Coures2.part3.JsoupAPI;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
