@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Jsoup API 활용">
-      <change afterPath="$PROJECT_DIR$/src/Coures2/part3/OpenAPI/WeatherExample.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Open API 활용날씨">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,23 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/gongsang-ug/Desktop/git/Java_Training/src/part4/IsNotOverrideTest",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "라이브러리",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gongsang-ug/Desktop/git/Java_Training/src/part4/IsNotOverrideTest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;라이브러리&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/part4/IsNotOverrideTest" />
@@ -69,11 +68,11 @@
   </component>
   <component name="RunManager" selected="애플리케이션.WeatherExample">
     <configuration name="GsonMemAddfromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part3.GsonAPI.GsonMemAddfromJson" />
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Coures2.part3.GsonAPI.GsonMemAddfromJson" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part3.GsonAPI.*" />
+          <option name="PATTERN" value="JavaStudy.Coures2.part3.GsonAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,11 +81,11 @@
       </method>
     </configuration>
     <configuration name="GsonMemAddtoJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part3.GsonAPI.GsonMemAddtoJson" />
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Coures2.part3.GsonAPI.GsonMemAddtoJson" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part3.GsonAPI.*" />
+          <option name="PATTERN" value="JavaStudy.Coures2.part3.GsonAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +94,11 @@
       </method>
     </configuration>
     <configuration name="GsonfromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part3.GsonAPI.GsonfromJson" />
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Coures2.part3.GsonAPI.GsonfromJson" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part3.GsonAPI.*" />
+          <option name="PATTERN" value="JavaStudy.Coures2.part3.GsonAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +107,11 @@
       </method>
     </configuration>
     <configuration name="JsoupExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part3.JsoupAPI.JsoupExample" />
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Coures2.part3.JsoupAPI.JsoupExample" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part3.JsoupAPI.*" />
+          <option name="PATTERN" value="JavaStudy.Coures2.part3.JsoupAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +120,11 @@
       </method>
     </configuration>
     <configuration name="WeatherExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coures2.part3.OpenAPI.WeatherExample" />
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Coures2.part3.OpenAPI.WeatherExample" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coures2.part3.OpenAPI.*" />
+          <option name="PATTERN" value="JavaStudy.Coures2.part3.OpenAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,14 +152,7 @@
       <updated>1684725846361</updated>
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
-      <workItem from="1686146815081" duration="61262000" />
-    </task>
-    <task id="LOCAL-00037" summary="패키지화">
-      <created>1686052688734</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1686052688734</updated>
+      <workItem from="1686146815081" duration="62313000" />
     </task>
     <task id="LOCAL-00038" summary="ClassObjectInstance">
       <created>1686053097046</created>
@@ -498,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687183519253</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Open API 활용날씨">
+      <created>1687184327838</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1687184327838</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ArrayListTest" />
     <MESSAGE value="HelloWorldString" />
     <MESSAGE value="StringManipulation" />
     <MESSAGE value="StringCompare" />
@@ -541,6 +539,7 @@
     <MESSAGE value="Stream API의 활용" />
     <MESSAGE value="Gson API 활용" />
     <MESSAGE value="Jsoup API 활용" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jsoup API 활용" />
+    <MESSAGE value="Open API 활용날씨" />
+    <option name="LAST_COMMIT_MESSAGE" value="Open API 활용날씨" />
   </component>
 </project>
