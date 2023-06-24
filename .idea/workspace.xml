@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="학습 구성">
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/string.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="string">
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/String.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,7 @@
     "project.structure.last.edited": "라이브러리",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -66,7 +68,7 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.WeatherExample">
+  <component name="RunManager" selected="애플리케이션.String">
     <configuration name="GsonMemAddfromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaStudy.Coures2.part3.GsonAPI.GsonMemAddfromJson" />
       <module name="Java_Training" />
@@ -93,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GsonfromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Coures2.part3.GsonAPI.GsonfromJson" />
+    <configuration name="JsoupExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Coures2.part3.JsoupAPI.JsoupExample" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Coures2.part3.GsonAPI.*" />
+          <option name="PATTERN" value="JavaStudy.Coures2.part3.JsoupAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsoupExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Coures2.part3.JsoupAPI.JsoupExample" />
+    <configuration name="String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCodingTest.String" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Coures2.part3.JsoupAPI.*" />
+          <option name="PATTERN" value="JavaCodingTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.String" />
         <item itemvalue="애플리케이션.WeatherExample" />
         <item itemvalue="애플리케이션.JsoupExample" />
         <item itemvalue="애플리케이션.GsonMemAddfromJson" />
         <item itemvalue="애플리케이션.GsonMemAddtoJson" />
-        <item itemvalue="애플리케이션.GsonfromJson" />
       </list>
     </recent_temporary>
   </component>
@@ -153,14 +155,7 @@
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
       <workItem from="1686146815081" duration="62313000" />
-      <workItem from="1687353019505" duration="332000" />
-    </task>
-    <task id="LOCAL-00039" summary="Employee">
-      <created>1686119648698</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1686119648698</updated>
+      <workItem from="1687353019505" duration="4973000" />
     </task>
     <task id="LOCAL-00040" summary="패키지">
       <created>1686227481314</created>
@@ -498,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687353229986</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="string">
+      <created>1687353355694</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1687353355694</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +518,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="StringManipulation" />
     <MESSAGE value="StringCompare" />
     <MESSAGE value="StringSplit" />
     <MESSAGE value="IntefaceAPI" />
@@ -541,6 +542,7 @@
     <MESSAGE value="Jsoup API 활용" />
     <MESSAGE value="Open API 활용날씨" />
     <MESSAGE value="학습 구성" />
-    <option name="LAST_COMMIT_MESSAGE" value="학습 구성" />
+    <MESSAGE value="string" />
+    <option name="LAST_COMMIT_MESSAGE" value="string" />
   </component>
 </project>
