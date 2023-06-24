@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/대소문자바꾸기/String.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +63,7 @@
       <recent name="$PROJECT_DIR$/src/part4/Poly_" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열" />
       <recent name="$PROJECT_DIR$/src/part3/Person_" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -111,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCodingTest.String" />
+      <option name="MAIN_CLASS_NAME" value="JavaCodingTest.대소문자바꾸기.String" />
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaCodingTest.*" />
+          <option name="PATTERN" value="JavaCodingTest.대소문자바꾸기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,14 +157,7 @@
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
       <workItem from="1686146815081" duration="62313000" />
-      <workItem from="1687353019505" duration="6166000" />
-    </task>
-    <task id="LOCAL-00041" summary="OverrideTest">
-      <created>1686229261080</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1686229261080</updated>
+      <workItem from="1687353019505" duration="6541000" />
     </task>
     <task id="LOCAL-00042" summary="다운케스팅">
       <created>1686229660810</created>
@@ -502,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687611024512</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="test">
+      <created>1687612011940</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1687612011940</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
