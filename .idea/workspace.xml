@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/대소문자바꾸기/String.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="Ch01_문자열.대소문자바꾸기">
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +113,7 @@
       <module name="Java_Training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaCodingTest.대소문자바꾸기.*" />
+          <option name="PATTERN" value="JavaCodingTest.Ch01_문자열.대소문자바꾸기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,14 +155,7 @@
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
       <workItem from="1686146815081" duration="62313000" />
-      <workItem from="1687353019505" duration="6541000" />
-    </task>
-    <task id="LOCAL-00042" summary="다운케스팅">
-      <created>1686229660810</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1686229660810</updated>
+      <workItem from="1687353019505" duration="7367000" />
     </task>
     <task id="LOCAL-00043" summary="PolyMethodTest">
       <created>1686316964987</created>
@@ -502,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687612011940</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Ch01_문자열.대소문자바꾸기">
+      <created>1687612493681</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1687612493681</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,7 +518,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="StringSplit" />
     <MESSAGE value="IntefaceAPI" />
     <MESSAGE value="DataBaseConnection" />
     <MESSAGE value="WrapperTest" />
@@ -545,6 +542,7 @@
     <MESSAGE value="학습 구성" />
     <MESSAGE value="string" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Ch01_문자열.대소문자바꾸기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ch01_문자열.대소문자바꾸기" />
   </component>
 </project>
