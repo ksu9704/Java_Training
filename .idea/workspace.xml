@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="사전설정 _ 휴일">
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/문자열_붙여서_출력하기/Solution.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="문자열 붙여서 출력하기">
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/정수의합/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,14 +156,7 @@
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
       <workItem from="1686146815081" duration="62313000" />
-      <workItem from="1687353019505" duration="8342000" />
-    </task>
-    <task id="LOCAL-00044" summary="PolyArray 다형성">
-      <created>1686321278173</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1686321278173</updated>
+      <workItem from="1687353019505" duration="8964000" />
     </task>
     <task id="LOCAL-00045" summary="IsNotOverrideTest">
       <created>1686392693540</created>
@@ -501,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687695553747</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="문자열 붙여서 출력하기">
+      <created>1687783186583</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1687783186583</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,7 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DataBaseConnection" />
     <MESSAGE value="WrapperTest" />
     <MESSAGE value="IntegerStringTest" />
     <MESSAGE value="CollectionBasic" />
@@ -544,6 +543,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="Ch01_문자열.대소문자바꾸기" />
     <MESSAGE value="사전설정 _ 휴일" />
-    <option name="LAST_COMMIT_MESSAGE" value="사전설정 _ 휴일" />
+    <MESSAGE value="문자열 붙여서 출력하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="문자열 붙여서 출력하기" />
   </component>
 </project>
