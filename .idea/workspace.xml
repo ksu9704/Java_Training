@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="정수의합">
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="문자열의앞의n글자">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,14 +155,7 @@
       <workItem from="1684725847707" duration="10673000" />
       <workItem from="1684810055597" duration="76782000" />
       <workItem from="1686146815081" duration="62313000" />
-      <workItem from="1687353019505" duration="10221000" />
-    </task>
-    <task id="LOCAL-00046" summary="Interface">
-      <created>1686393837663</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1686393837663</updated>
+      <workItem from="1687353019505" duration="10928000" />
     </task>
     <task id="LOCAL-00047" summary="재정의">
       <created>1686394191798</created>
@@ -500,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687783570523</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="문자열의앞의n글자">
+      <created>1687839043004</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1687839043004</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,7 +518,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="IntegerStringTest" />
     <MESSAGE value="CollectionBasic" />
     <MESSAGE value="MovieListExample" />
     <MESSAGE value="HashSet" />
@@ -543,6 +542,7 @@
     <MESSAGE value="사전설정 _ 휴일" />
     <MESSAGE value="문자열 붙여서 출력하기" />
     <MESSAGE value="정수의합" />
-    <option name="LAST_COMMIT_MESSAGE" value="정수의합" />
+    <MESSAGE value="문자열의앞의n글자" />
+    <option name="LAST_COMMIT_MESSAGE" value="문자열의앞의n글자" />
   </component>
 </project>
