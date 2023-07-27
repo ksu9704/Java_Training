@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="문자열의앞의n글자">
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/output.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/대소문자바꾸기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/대소문자바꾸기/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/문자열의앞의n글자/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/붙여서출력하기/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/정수의합/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
     "last_opened_file_path": "/Users/gongsang-ug/Desktop/git/Java_Training/src/JavaCodingTest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -61,6 +68,7 @@
       <recent name="$PROJECT_DIR$/src/part4/Poly_" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/JavaCodingTest" />
       <recent name="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열" />
       <recent name="$PROJECT_DIR$/src/part3/Person_" />
     </key>
@@ -68,49 +76,12 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.String">
-    <configuration name="GsonMemAddfromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Coures2.part3.GsonAPI.GsonMemAddfromJson" />
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCodingTest.Ch01_문자열.대소문자바꾸기.Main" />
       <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudy.Coures2.part3.GsonAPI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GsonMemAddtoJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Coures2.part3.GsonAPI.GsonMemAddtoJson" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudy.Coures2.part3.GsonAPI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JsoupExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Coures2.part3.JsoupAPI.JsoupExample" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudy.Coures2.part3.JsoupAPI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCodingTest.대소문자바꾸기.String" />
-      <module name="Java_Training" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/src/JavaCodingTest/input.txt" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaCodingTest.Ch01_문자열.대소문자바꾸기.*" />
@@ -121,26 +92,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeatherExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Coures2.part3.OpenAPI.WeatherExample" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudy.Coures2.part3.OpenAPI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.String" />
-        <item itemvalue="애플리케이션.WeatherExample" />
-        <item itemvalue="애플리케이션.JsoupExample" />
-        <item itemvalue="애플리케이션.GsonMemAddfromJson" />
-        <item itemvalue="애플리케이션.GsonMemAddtoJson" />
+        <item itemvalue="애플리케이션.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +110,10 @@
       <workItem from="1684810055597" duration="76782000" />
       <workItem from="1686146815081" duration="62313000" />
       <workItem from="1687353019505" duration="10928000" />
+      <workItem from="1688568514947" duration="1868000" />
+      <workItem from="1689250254161" duration="165000" />
+      <workItem from="1689250578909" duration="404000" />
+      <workItem from="1690468552380" duration="396000" />
     </task>
     <task id="LOCAL-00047" summary="재정의">
       <created>1686394191798</created>
