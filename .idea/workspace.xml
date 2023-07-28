@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="문자열의앞의n글자">
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/output.txt" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/애너그램_만들기/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/대소문자바꾸기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/대소문자바꾸기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/문자열의앞의n글자/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/붙여서출력하기/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/정수의합/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +25,7 @@
         <option value="AnnotationType" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -76,7 +74,22 @@
       <recent name="Coures2.model2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="애플리케이션.JavaCodingTest.Ch01_문자열.애너그램_만들기.Main">
+    <configuration name="JavaCodingTest.Ch01_문자열.애너그램_만들기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCodingTest.Ch01_문자열.애너그램_만들기.Main" />
+      <module name="Java_Training" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/src/JavaCodingTest/input.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaCodingTest.Ch01_문자열.애너그램_만들기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaCodingTest.Ch01_문자열.대소문자바꾸기.Main" />
       <module name="Java_Training" />
@@ -92,8 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="애플리케이션.JavaCodingTest.Ch01_문자열.애너그램_만들기.Main" />
+      <item itemvalue="애플리케이션.Main" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.JavaCodingTest.Ch01_문자열.애너그램_만들기.Main" />
         <item itemvalue="애플리케이션.Main" />
       </list>
     </recent_temporary>
@@ -113,14 +131,7 @@
       <workItem from="1688568514947" duration="1868000" />
       <workItem from="1689250254161" duration="165000" />
       <workItem from="1689250578909" duration="404000" />
-      <workItem from="1690468552380" duration="396000" />
-    </task>
-    <task id="LOCAL-00047" summary="재정의">
-      <created>1686394191798</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1686394191798</updated>
+      <workItem from="1690468552380" duration="6458000" />
     </task>
     <task id="LOCAL-00048" summary="ObjectTest">
       <created>1686397650215</created>
@@ -458,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687839043004</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="test">
+      <created>1690469171541</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1690469171542</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,12 +513,12 @@
     <MESSAGE value="Open API 활용날씨" />
     <MESSAGE value="학습 구성" />
     <MESSAGE value="string" />
-    <MESSAGE value="test" />
     <MESSAGE value="Ch01_문자열.대소문자바꾸기" />
     <MESSAGE value="사전설정 _ 휴일" />
     <MESSAGE value="문자열 붙여서 출력하기" />
     <MESSAGE value="정수의합" />
     <MESSAGE value="문자열의앞의n글자" />
-    <option name="LAST_COMMIT_MESSAGE" value="문자열의앞의n글자" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>

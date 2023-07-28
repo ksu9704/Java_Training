@@ -5,8 +5,15 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int A = sc.nextInt();
-        int B = sc.nextInt();
-        System.out.println(A+B);
+        String str = sc.next();
+        char[] ans = str.toCharArray();
+
+        for (int i=0; i<str.length(); i++){
+            if ('a' <= ans[i] && ans[i] <= 'z')
+                ans[i] = (char)('A' + ans[i] - 'a');
+            else ans[i] = (char)('a' + ans[i] - 'A');
+        }
+
+        System.out.print(ans);
     }
 }
