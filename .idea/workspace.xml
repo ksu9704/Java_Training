@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/애너그램_만들기/Main.java" afterDir="false" />
+    <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="coding test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/대소문자바꾸기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/대소문자바꾸기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/애너그램_만들기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/애너그램_만들기/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,14 +129,7 @@
       <workItem from="1688568514947" duration="1868000" />
       <workItem from="1689250254161" duration="165000" />
       <workItem from="1689250578909" duration="404000" />
-      <workItem from="1690468552380" duration="6458000" />
-    </task>
-    <task id="LOCAL-00048" summary="ObjectTest">
-      <created>1686397650215</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1686397650215</updated>
+      <workItem from="1690468552380" duration="7714000" />
     </task>
     <task id="LOCAL-00049" summary="MinMaxFinder">
       <created>1686485140333</created>
@@ -476,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690469171542</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="coding test">
+      <created>1690550635742</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1690550635742</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,8 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CollectionBasic" />
-    <MESSAGE value="MovieListExample" />
     <MESSAGE value="HashSet" />
     <MESSAGE value="Key-Value로 데이터를&#10;관리" />
     <MESSAGE value="ObjectArray" />
@@ -519,6 +515,8 @@
     <MESSAGE value="정수의합" />
     <MESSAGE value="문자열의앞의n글자" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="&#10;coding test" />
+    <MESSAGE value="coding test" />
+    <option name="LAST_COMMIT_MESSAGE" value="coding test" />
   </component>
 </project>
