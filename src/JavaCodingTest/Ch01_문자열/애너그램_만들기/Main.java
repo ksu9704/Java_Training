@@ -8,6 +8,7 @@ class Main
         int[] count = new int[26];
         for (int i = 0; i < str.length(); i++)
             count[str.charAt(i) - 'a']++;
+        
         return count;
     }
 
