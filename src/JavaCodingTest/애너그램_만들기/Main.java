@@ -1,4 +1,4 @@
-package JavaCodingTest.Ch01_문자열.애너그램_만들기;
+package JavaCodingTest.애너그램_만들기;
 
 import java.util.Scanner;
 

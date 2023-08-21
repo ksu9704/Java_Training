@@ -1,4 +1,4 @@
-package JavaCodingTest.Ch01_문자열.각도기;
+package JavaCodingTest.각도기;
 
 import java.util.Scanner;
 

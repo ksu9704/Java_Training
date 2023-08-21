@@ -1,4 +1,4 @@
-package JavaCodingTest.Ch01_문자열;
+package JavaCodingTest;
 
 import java.util.Scanner;
 
@@ -6,7 +6,6 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-
 
     }
 }

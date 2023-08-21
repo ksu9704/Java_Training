@@ -1,4 +1,4 @@
-package JavaCodingTest.Ch01_문자열.짝수의합;
+package JavaCodingTest.짝수의합;
 
 import java.util.Scanner;
 

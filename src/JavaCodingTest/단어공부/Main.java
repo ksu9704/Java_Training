@@ -1,4 +1,4 @@
-package JavaCodingTest.Ch01_문자열.단어공부;
+package JavaCodingTest.단어공부;
 
 import java.util.Scanner;
 

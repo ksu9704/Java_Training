@@ -1,4 +1,4 @@
-package JavaCodingTest.Ch01_문자열.문서검색;
+package JavaCodingTest.문서검색;
 
 import java.util.Scanner;
 

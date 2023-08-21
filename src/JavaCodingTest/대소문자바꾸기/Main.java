@@ -1,4 +1,4 @@
-package JavaCodingTest.Ch01_문자열.대소문자바꾸기;
+package JavaCodingTest.대소문자바꾸기;
 
 import java.util.Scanner;
 

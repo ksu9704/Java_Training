@@ -1,4 +1,4 @@
-package JavaCodingTest.Ch01_문자열.소금폭탄;
+package JavaCodingTest.소금폭탄;
 
 import java.util.Scanner;
 
