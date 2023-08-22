@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="coding test">
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/a와b출력하기/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/문자열반복출력/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/뎃셈식출력/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/문자열겹쳐쓰기/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/문자열돌리기/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/배열두배만들기/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/특수문자출력하기/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/홀짝구분/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/각도기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/각도기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/단어공부/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/단어공부/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/대소문자바꾸기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/대소문자바꾸기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/문서검색/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/문서검색/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/소금폭탄/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/소금폭탄/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/애너그램_만들기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/애너그램_만들기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Ch01_문자열/짝수의합/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/짝수의합/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +76,11 @@
       <recent name="$PROJECT_DIR$/src/part3/Person_" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Coures2.model2" />
+      <recent name="JavaCodingTest.문자열겹쳐쓰기" />
+      <recent name="JavaCodingTest.홀짝구분" />
+      <recent name="JavaCodingTest.문자열돌리기" />
+      <recent name="JavaCodingTest.뎃셈식출력" />
+      <recent name="JavaCodingTest.특수문자출력하기" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.JavaCodingTest.Main">
@@ -91,6 +92,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaCodingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaCodingTest.배열두배만들기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCodingTest.배열두배만들기.Main" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaCodingTest.배열두배만들기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaCodingTest.홀짝구분.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCodingTest.홀짝구분.Main" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaCodingTest.홀짝구분.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +157,16 @@
     </configuration>
     <list>
       <item itemvalue="애플리케이션.JavaCodingTest.Main" />
+      <item itemvalue="애플리케이션.JavaCodingTest.배열두배만들기.Main" />
       <item itemvalue="애플리케이션.JavaCodingTest.애너그램_만들기.Main" />
+      <item itemvalue="애플리케이션.JavaCodingTest.홀짝구분.Main" />
       <item itemvalue="애플리케이션.Main" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="애플리케이션.JavaCodingTest.Main" />
+        <item itemvalue="애플리케이션.JavaCodingTest.홀짝구분.Main" />
+        <item itemvalue="애플리케이션.JavaCodingTest.배열두배만들기.Main" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.JavaCodingTest.애너그램_만들기.Main" />
       </list>
@@ -160,14 +191,7 @@
       <workItem from="1692266463615" duration="2522000" />
       <workItem from="1692454558755" duration="1310000" />
       <workItem from="1692611021661" duration="2476000" />
-      <workItem from="1692615626842" duration="2243000" />
-    </task>
-    <task id="LOCAL-00051" summary="GsonFromAPI">
-      <created>1686491385304</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1686491385304</updated>
+      <workItem from="1692615626842" duration="9464000" />
     </task>
     <task id="LOCAL-00052" summary="IntArrayBasic">
       <created>1686567308413</created>
@@ -505,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692615212953</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="coding test">
+      <created>1692618259992</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1692618259992</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
