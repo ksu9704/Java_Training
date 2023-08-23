@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="coding test">
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/뎃셈식출력/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/문자열겹쳐쓰기/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/문자열돌리기/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/배열두배만들기/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/특수문자출력하기/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/홀짝구분/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/문자리스트를문자열로변환하기/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/문자역섞기/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" afterDir="false" />
@@ -159,13 +155,11 @@
       <item itemvalue="애플리케이션.JavaCodingTest.Main" />
       <item itemvalue="애플리케이션.JavaCodingTest.배열두배만들기.Main" />
       <item itemvalue="애플리케이션.JavaCodingTest.애너그램_만들기.Main" />
-      <item itemvalue="애플리케이션.JavaCodingTest.홀짝구분.Main" />
       <item itemvalue="애플리케이션.Main" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="애플리케이션.JavaCodingTest.Main" />
-        <item itemvalue="애플리케이션.JavaCodingTest.홀짝구분.Main" />
         <item itemvalue="애플리케이션.JavaCodingTest.배열두배만들기.Main" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.JavaCodingTest.애너그램_만들기.Main" />
@@ -191,14 +185,8 @@
       <workItem from="1692266463615" duration="2522000" />
       <workItem from="1692454558755" duration="1310000" />
       <workItem from="1692611021661" duration="2476000" />
-      <workItem from="1692615626842" duration="9464000" />
-    </task>
-    <task id="LOCAL-00052" summary="IntArrayBasic">
-      <created>1686567308413</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1686567308413</updated>
+      <workItem from="1692615626842" duration="9740000" />
+      <workItem from="1692800118059" duration="1015000" />
     </task>
     <task id="LOCAL-00053" summary="IntArray">
       <created>1686568576731</created>
@@ -536,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692618259992</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="coding test">
+      <created>1692690170331</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1692690170331</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
