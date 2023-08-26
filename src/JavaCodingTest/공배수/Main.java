@@ -1,4 +1,4 @@
-package JavaCodingTest;
+package JavaCodingTest.공배수;
 
 import java.util.Scanner;
 

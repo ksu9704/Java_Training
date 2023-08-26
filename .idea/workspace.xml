@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="coding test">
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/더크게합하기/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/두수의연산값비교/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/문자열곱하기/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/n의배수/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/공배수/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" afterDir="false" />
@@ -203,14 +202,7 @@
       <workItem from="1692611021661" duration="2476000" />
       <workItem from="1692615626842" duration="9740000" />
       <workItem from="1692800118059" duration="1029000" />
-      <workItem from="1692956575025" duration="3119000" />
-    </task>
-    <task id="LOCAL-00054" summary="BookArrayTest">
-      <created>1686569906686</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1686569906686</updated>
+      <workItem from="1692956575025" duration="5193000" />
     </task>
     <task id="LOCAL-00055" summary="ObjectArrayTest">
       <created>1686571467659</created>
@@ -548,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692801140300</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="coding test">
+      <created>1692972726789</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1692972726790</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
