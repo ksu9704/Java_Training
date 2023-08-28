@@ -5,11 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="coding test">
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/n의배수/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/공배수/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/a와b출력하기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/a와b출력하기/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/n의배수/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/n의배수/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/각도기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/각도기/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/공배수/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/공배수/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/단어공부/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/단어공부/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/대소문자바꾸기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/대소문자바꾸기/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/대소문자바꿔서출력/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/대소문자바꿔서출력/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/더크게합하기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/더크게합하기/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/뎃셈식출력/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/뎃셈식출력/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/두수의연산값비교/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/두수의연산값비교/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/문서검색/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/문서검색/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/문자리스트를문자열로변환하기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/문자리스트를문자열로변환하기/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/문자역섞기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/문자역섞기/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/문자열겹쳐쓰기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/문자열겹쳐쓰기/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/문자열곱하기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/문자열곱하기/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/문자열돌리기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/문자열돌리기/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/문자열반복출력/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/문자열반복출력/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/배열두배만들기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/배열두배만들기/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/소금폭탄/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/소금폭탄/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/애너그램_만들기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/애너그램_만들기/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/짝수의합/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/짝수의합/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/특수문자출력하기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/특수문자출력하기/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/홀짝구분/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/홀짝구분/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +101,19 @@
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.JavaCodingTest.Main">
+    <configuration name="JavaCodingTest.Lv_0.배열두배만들기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCodingTest.Lv_0.배열두배만들기.Main" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaCodingTest.Lv_0.배열두배만들기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaCodingTest.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaCodingTest.Main" />
       <module name="Java_Training" />
@@ -88,19 +122,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaCodingTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaCodingTest.배열두배만들기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCodingTest.배열두배만들기.Main" />
-      <module name="Java_Training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaCodingTest.배열두배만들기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,6 +142,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JavaCodingTest.공배수.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCodingTest.공배수.Main" />
+      <module name="Java_Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaCodingTest.공배수.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaCodingTest.홀짝구분.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaCodingTest.홀짝구분.Main" />
       <module name="Java_Training" />
@@ -134,29 +168,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaCodingTest.애너그램_만들기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCodingTest.애너그램_만들기.Main" />
-      <module name="Java_Training" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="$PROJECT_DIR$/src/JavaCodingTest/input.txt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaCodingTest.애너그램_만들기.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaCodingTest.대소문자바꾸기.Main" />
+      <option name="MAIN_CLASS_NAME" value="JavaCodingTest.Lv_0.대소문자바꾸기.Main" />
       <module name="Java_Training" />
       <option name="REDIRECT_INPUT" value="true" />
       <option name="INPUT_FILE" value="$PROJECT_DIR$/src/JavaCodingTest/input.txt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaCodingTest.대소문자바꾸기.*" />
+          <option name="PATTERN" value="JavaCodingTest.Lv_0.대소문자바꾸기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,19 +184,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="애플리케이션.JavaCodingTest.문자열곱하기.Main" />
+      <item itemvalue="애플리케이션.JavaCodingTest.Lv_0.배열두배만들기.Main" />
       <item itemvalue="애플리케이션.JavaCodingTest.Main" />
-      <item itemvalue="애플리케이션.JavaCodingTest.배열두배만들기.Main" />
-      <item itemvalue="애플리케이션.JavaCodingTest.애너그램_만들기.Main" />
       <item itemvalue="애플리케이션.Main" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="애플리케이션.JavaCodingTest.Main" />
-        <item itemvalue="애플리케이션.JavaCodingTest.문자열곱하기.Main" />
-        <item itemvalue="애플리케이션.JavaCodingTest.배열두배만들기.Main" />
+        <item itemvalue="애플리케이션.JavaCodingTest.Lv_0.배열두배만들기.Main" />
         <item itemvalue="애플리케이션.Main" />
-        <item itemvalue="애플리케이션.JavaCodingTest.애너그램_만들기.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -202,14 +217,10 @@
       <workItem from="1692611021661" duration="2476000" />
       <workItem from="1692615626842" duration="9740000" />
       <workItem from="1692800118059" duration="1029000" />
-      <workItem from="1692956575025" duration="5193000" />
-    </task>
-    <task id="LOCAL-00055" summary="ObjectArrayTest">
-      <created>1686571467659</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1686571467659</updated>
+      <workItem from="1692956575025" duration="7913000" />
+      <workItem from="1693126300469" duration="20000" />
+      <workItem from="1693126341206" duration="599000" />
+      <workItem from="1693218148771" duration="2542000" />
     </task>
     <task id="LOCAL-00056" summary="ArrayListTest">
       <created>1686572520454</created>
@@ -547,7 +558,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692972726790</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="coding test">
+      <created>1693058048533</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1693058048533</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

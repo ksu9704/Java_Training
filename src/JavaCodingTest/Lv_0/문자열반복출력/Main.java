@@ -1,4 +1,4 @@
-package JavaCodingTest;
+package JavaCodingTest.Lv_0.문자열반복출력;
 
 import java.util.Scanner;
 
@@ -6,15 +6,11 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-
+        String str = sc.next();
         int n = sc.nextInt();
-        int[] answer = {};
 
         for (int i = 0; i < n; i++) {
-            answer = n%2 == 0
-
+            System.out.print(str);
         }
-
-
     }
 }
