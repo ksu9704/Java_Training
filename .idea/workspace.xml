@@ -5,32 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c0a140b-7039-43d8-8e67-9426c02eded7" name="변경" comment="coding test">
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/Baekjoon/Bronze/입출력과_사칙연산/곱셈/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/Baekjoon/Bronze/입출력과_사칙연산/나누기/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/Baekjoon/Bronze/입출력과_사칙연산/더하기/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCodingTest/Baekjoon/Bronze/입출력과_사칙연산/뺴기/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/a와b출력하기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/a와b출력하기/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/n의배수/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/n의배수/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/각도기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/각도기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/공배수/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/공배수/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/단어공부/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/단어공부/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/대소문자바꾸기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/대소문자바꾸기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/대소문자바꿔서출력/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/대소문자바꿔서출력/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/더크게합하기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/더크게합하기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/뎃셈식출력/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/뎃셈식출력/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/두수의연산값비교/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/두수의연산값비교/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/문서검색/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/문서검색/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/문자리스트를문자열로변환하기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/문자리스트를문자열로변환하기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/문자역섞기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/문자역섞기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/문자열겹쳐쓰기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/문자열겹쳐쓰기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/문자열곱하기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/문자열곱하기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/문자열돌리기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/문자열돌리기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/문자열반복출력/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/문자열반복출력/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/배열두배만들기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/배열두배만들기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/소금폭탄/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/소금폭탄/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/애너그램_만들기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/애너그램_만들기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/짝수의합/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/짝수의합/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/특수문자출력하기/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/특수문자출력하기/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaCodingTest/홀짝구분/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaCodingTest/Lv_0/홀짝구분/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,11 +74,11 @@
       <recent name="$PROJECT_DIR$/src/part3/Person_" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JavaCodingTest.Baekjoon.Bronze.입출력과_사칙연산.나누기" />
+      <recent name="JavaCodingTest.Baekjoon.Bronze.입출력과_사칙연산.곱셈" />
+      <recent name="JavaCodingTest.Baekjoon.Bronze.뺴기" />
+      <recent name="JavaCodingTest.Baekjoon.Bronze.더하기" />
       <recent name="JavaCodingTest.문자열겹쳐쓰기" />
-      <recent name="JavaCodingTest.홀짝구분" />
-      <recent name="JavaCodingTest.문자열돌리기" />
-      <recent name="JavaCodingTest.뎃셈식출력" />
-      <recent name="JavaCodingTest.특수문자출력하기" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.JavaCodingTest.Main">
@@ -184,6 +165,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="애플리케이션.JavaCodingTest.문자열곱하기.Main" />
       <item itemvalue="애플리케이션.JavaCodingTest.Lv_0.배열두배만들기.Main" />
       <item itemvalue="애플리케이션.JavaCodingTest.Main" />
       <item itemvalue="애플리케이션.Main" />
@@ -220,14 +202,8 @@
       <workItem from="1692956575025" duration="7913000" />
       <workItem from="1693126300469" duration="20000" />
       <workItem from="1693126341206" duration="599000" />
-      <workItem from="1693218148771" duration="2542000" />
-    </task>
-    <task id="LOCAL-00056" summary="ArrayListTest">
-      <created>1686572520454</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1686572520454</updated>
+      <workItem from="1693218148771" duration="2585000" />
+      <workItem from="1695456708118" duration="1096000" />
     </task>
     <task id="LOCAL-00057" summary="패키지">
       <created>1686572705990</created>
@@ -565,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693058048533</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="coding test">
+      <created>1693221084615</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1693221084616</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -576,7 +559,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
